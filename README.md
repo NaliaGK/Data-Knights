@@ -1,9 +1,6 @@
 # Data-Knights
 Repo for competition by Data Junkies
 
-# Data-Knights
-Repo for competition by Data Junkies
-
 **Tema :** Perdagangan Internasional Indonesia sebagai Pendukung Pemulihan Ekonomi Nasional
 
 **Time-series:** 1990-2020
