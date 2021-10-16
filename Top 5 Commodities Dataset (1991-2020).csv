@@ -1,0 +1,986 @@
+,Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+159,H0,1991,1991,1991,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,8,Weight in kilograms,79894.0,0.0,0.0,0.0,79894.0,0.0,366253,0.0,0.0,0
+145,H0,1991,1991,1991,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,24903404.0,0.0,0.0,0.0,24903404.0,0.0,8935041,0.0,0.0,0
+164,H0,1991,1991,1991,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,8,Weight in kilograms,2500.0,0.0,0.0,0.0,2500.0,0.0,31966,0.0,0.0,0
+163,H0,1991,1991,1991,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,8,Weight in kilograms,40773.0,0.0,0.0,0.0,40773.0,0.0,244824,0.0,0.0,0
+162,H0,1991,1991,1991,4,0,1,Import,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,8,Weight in kilograms,3000.0,0.0,0.0,0.0,3000.0,0.0,18011,0.0,0.0,0
+161,H0,1991,1991,1991,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,8,Weight in kilograms,390546.0,0.0,0.0,0.0,390546.0,0.0,2018293,0.0,0.0,0
+160,H0,1991,1991,1991,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,8,Weight in kilograms,10312.0,0.0,0.0,0.0,10312.0,0.0,98676,0.0,0.0,0
+158,H0,1991,1991,1991,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,8,Weight in kilograms,8187.0,0.0,0.0,0.0,8187.0,0.0,84532,0.0,0.0,0
+157,H0,1991,1991,1991,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,11602.0,0.0,0.0,0.0,11602.0,0.0,134451904,0.0,0.0,0
+155,H0,1991,1991,1991,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,7,Volume in litres,56688.0,0.0,0.0,0.0,22675.0,0.0,3118,0.0,0.0,0
+156,H0,1991,1991,1991,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,7.0,0.0,0.0,0.0,7.0,0.0,26552,0.0,0.0,0
+153,H0,1991,1991,1991,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,7,Volume in litres,5909375.0,0.0,0.0,0.0,2363750.0,0.0,225436,0.0,0.0,0
+152,H0,1991,1991,1991,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,266567360.0,0.0,0.0,0.0,266567360.0,0.0,206145920,0.0,0.0,0
+151,H0,1991,1991,1991,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,21061.0,0.0,0.0,0.0,21061.0,0.0,87689,0.0,0.0,0
+150,H0,1991,1991,1991,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,889272.0,0.0,0.0,0.0,889272.0,0.0,743369,0.0,0.0,0
+149,H0,1991,1991,1991,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,825250.0,0.0,0.0,0.0,825250.0,0.0,625451,0.0,0.0,0
+148,H0,1991,1991,1991,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,18903948.0,0.0,0.0,0.0,18903948.0,0.0,5367203,0.0,0.0,0
+147,H0,1991,1991,1991,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,12969687.0,0.0,0.0,0.0,12969687.0,0.0,4949269,0.0,0.0,0
+146,H0,1991,1991,1991,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,68215440.0,0.0,0.0,0.0,68215440.0,0.0,19813798,0.0,0.0,0
+154,H0,1991,1991,1991,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,7,Volume in litres,79649016.0,0.0,0.0,0.0,31859604.0,0.0,2971115,0.0,0.0,0
+179,H0,1992,1992,1992,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,8,Weight in kilograms,1312.0,0.0,0.0,0.0,1312.0,0.0,9655,0.0,0.0,0
+178,H0,1992,1992,1992,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,8,Weight in kilograms,241975.0,0.0,0.0,0.0,241975.0,0.0,1208365,0.0,0.0,0
+180,H0,1992,1992,1992,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,8,Weight in kilograms,6108.0,0.0,0.0,0.0,6108.0,0.0,90791,0.0,0.0,0
+175,H0,1992,1992,1992,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,7,Volume in litres,53125.0,0.0,0.0,0.0,21250.0,0.0,2125,0.0,0.0,0
+182,H0,1992,1992,1992,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,8,Weight in kilograms,848750.0,0.0,0.0,0.0,848750.0,0.0,4759894,0.0,0.0,0
+183,H0,1992,1992,1992,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,8,Weight in kilograms,750.0,0.0,0.0,0.0,750.0,0.0,20492,0.0,0.0,0
+177,H0,1992,1992,1992,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,10697.0,0.0,0.0,0.0,10697.0,0.0,118738896,0.0,0.0,0
+181,H0,1992,1992,1992,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,8,Weight in kilograms,272.0,0.0,0.0,0.0,272.0,0.0,21204,0.0,0.0,0
+176,H0,1992,1992,1992,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,7,Volume in litres,36757384.0,0.0,0.0,0.0,14702953.0,0.0,1702176,0.0,0.0,0
+169,H0,1992,1992,1992,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,366000.0,0.0,0.0,0.0,366000.0,0.0,1559648,0.0,0.0,0
+173,H0,1992,1992,1992,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,273327680.0,0.0,0.0,0.0,273327680.0,0.0,220744096,0.0,0.0,0
+172,H0,1992,1992,1992,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,81687.0,0.0,0.0,0.0,81687.0,0.0,73760,0.0,0.0,0
+171,H0,1992,1992,1992,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,20160.0,0.0,0.0,0.0,20160.0,0.0,16832,0.0,0.0,0
+170,H0,1992,1992,1992,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,15059768.0,0.0,0.0,0.0,15059768.0,0.0,12689069,0.0,0.0,0
+168,H0,1992,1992,1992,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,100572312.0,0.0,0.0,0.0,100572312.0,0.0,34731136,0.0,0.0,0
+167,H0,1992,1992,1992,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,25949226.0,0.0,0.0,0.0,25949226.0,0.0,10865950,0.0,0.0,0
+166,H0,1992,1992,1992,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,81783376.0,0.0,0.0,0.0,81783376.0,0.0,28862840,0.0,0.0,0
+174,H0,1992,1992,1992,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,7,Volume in litres,5504688.0,0.0,0.0,0.0,2201875.0,0.0,204748,0.0,0.0,0
+165,H0,1992,1992,1992,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,282755424.0,0.0,0.0,0.0,282755424.0,0.0,102567976,0.0,0.0,0
+196,H0,1993,1993,1993,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,7,Volume in litres,3593.0,0.0,0.0,0.0,1437.0,0.0,2816,0.0,0.0,0
+204,H0,1993,1993,1993,4,0,1,Import,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,8,Weight in kilograms,1812.0,0.0,0.0,0.0,1812.0,0.0,2389,0.0,0.0,0
+203,H0,1993,1993,1993,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,8,Weight in kilograms,26241.0,0.0,0.0,0.0,26241.0,0.0,157497,0.0,0.0,0
+202,H0,1993,1993,1993,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,8,Weight in kilograms,14241.0,0.0,0.0,0.0,14241.0,0.0,241217,0.0,0.0,0
+197,H0,1993,1993,1993,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,7,Volume in litres,28735604.0,0.0,0.0,0.0,11494242.0,0.0,1475818,0.0,0.0,0
+199,H0,1993,1993,1993,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,8,Weight in kilograms,648.0,0.0,0.0,0.0,648.0,0.0,8346,0.0,0.0,0
+198,H0,1993,1993,1993,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,12473.0,0.0,0.0,0.0,12473.0,0.0,140397760,0.0,0.0,0
+205,H0,1993,1993,1993,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,8,Weight in kilograms,2010763.0,0.0,0.0,0.0,2010763.0,0.0,12096809,0.0,0.0,0
+201,H0,1993,1993,1993,4,0,1,Import,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,8,Weight in kilograms,1500.0,0.0,0.0,0.0,1500.0,0.0,14772,0.0,0.0,0
+206,H0,1993,1993,1993,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,8,Weight in kilograms,1000.0,0.0,0.0,0.0,1000.0,0.0,28807,0.0,0.0,0
+200,H0,1993,1993,1993,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,8,Weight in kilograms,157218.0,0.0,0.0,0.0,157218.0,0.0,807518,0.0,0.0,0
+192,H0,1993,1993,1993,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,207404752.0,0.0,0.0,0.0,207404752.0,0.0,161828704,0.0,0.0,0
+191,H0,1993,1993,1993,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,93405.0,0.0,0.0,0.0,93405.0,0.0,135925,0.0,0.0,0
+190,H0,1993,1993,1993,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,3339823.0,0.0,0.0,0.0,3339823.0,0.0,2494446,0.0,0.0,0
+189,H0,1993,1993,1993,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,235179.0,0.0,0.0,0.0,235179.0,0.0,217568,0.0,0.0,0
+188,H0,1993,1993,1993,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,2000000.0,0.0,0.0,0.0,2000000.0,0.0,680000,0.0,0.0,0
+187,H0,1993,1993,1993,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,100069888.0,0.0,0.0,0.0,100069888.0,0.0,34034476,0.0,0.0,0
+186,H0,1993,1993,1993,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,30304344.0,0.0,0.0,0.0,30304344.0,0.0,12666163,0.0,0.0,0
+185,H0,1993,1993,1993,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,265894192.0,0.0,0.0,0.0,265894192.0,0.0,91745344,0.0,0.0,0
+184,H0,1993,1993,1993,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,121617888.0,0.0,0.0,0.0,121617888.0,0.0,50981648,0.0,0.0,0
+195,H0,1993,1993,1993,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,7,Volume in litres,7170313.0,0.0,0.0,0.0,2868125.0,0.0,218569,0.0,0.0,0
+193,H0,1993,1993,1993,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,400000.0,0.0,0.0,0.0,400000.0,0.0,193770,0.0,0.0,0
+194,H0,1993,1993,1993,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,59417.0,0.0,0.0,0.0,59417.0,0.0,78304,0.0,0.0,0
+215,H0,1994,1994,1994,4,0,1,Import,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,15187.0,0.0,0.0,0.0,15187.0,0.0,25145,0.0,0.0,0
+208,H0,1994,1994,1994,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,248281984.0,0.0,0.0,0.0,248281984.0,0.0,110991504,0.0,0.0,0
+207,H0,1994,1994,1994,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,105676160.0,0.0,0.0,0.0,105676160.0,0.0,47164896,0.0,0.0,0
+231,H0,1994,1994,1994,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,8,Weight in kilograms,4562.0,0.0,0.0,0.0,4562.0,0.0,34369,0.0,0.0,0
+230,H0,1994,1994,1994,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,8,Weight in kilograms,1871940.0,0.0,0.0,0.0,1871940.0,0.0,10060302,0.0,0.0,0
+229,H0,1994,1994,1994,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,8,Weight in kilograms,7608.0,0.0,0.0,0.0,7608.0,0.0,29524,0.0,0.0,0
+228,H0,1994,1994,1994,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,8,Weight in kilograms,8187.0,0.0,0.0,0.0,8187.0,0.0,308223,0.0,0.0,0
+227,H0,1994,1994,1994,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,8,Weight in kilograms,787573.0,0.0,0.0,0.0,787573.0,0.0,4637816,0.0,0.0,0
+225,H0,1994,1994,1994,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,10142.0,0.0,0.0,0.0,10142.0,0.0,123031464,0.0,0.0,0
+224,H0,1994,1994,1994,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,7,Volume in litres,24550212.0,0.0,0.0,0.0,9820085.0,0.0,1274862,0.0,0.0,0
+223,H0,1994,1994,1994,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,7,Volume in litres,108750.0,0.0,0.0,0.0,43500.0,0.0,2891,0.0,0.0,0
+222,H0,1994,1994,1994,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,7,Volume in litres,7932655.0,0.0,0.0,0.0,3173062.0,0.0,252035,0.0,0.0,0
+221,H0,1994,1994,1994,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,111776.0,0.0,0.0,0.0,111776.0,0.0,104529,0.0,0.0,0
+226,H0,1994,1994,1994,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,8,Weight in kilograms,5109.0,0.0,0.0,0.0,5109.0,0.0,78509,0.0,0.0,0
+219,H0,1994,1994,1994,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,2016000.0,0.0,0.0,0.0,2016000.0,0.0,2090187,0.0,0.0,0
+218,H0,1994,1994,1994,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,196359232.0,0.0,0.0,0.0,196359232.0,0.0,198042960,0.0,0.0,0
+217,H0,1994,1994,1994,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,163006.0,0.0,0.0,0.0,163006.0,0.0,179867,0.0,0.0,0
+216,H0,1994,1994,1994,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,57601.0,0.0,0.0,0.0,57601.0,0.0,78527,0.0,0.0,0
+214,H0,1994,1994,1994,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,3046750.0,0.0,0.0,0.0,3046750.0,0.0,2178922,0.0,0.0,0
+213,H0,1994,1994,1994,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,466851.0,0.0,0.0,0.0,466851.0,0.0,478372,0.0,0.0,0
+212,H0,1994,1994,1994,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,9438187.0,0.0,0.0,0.0,9438187.0,0.0,3847284,0.0,0.0,0
+211,H0,1994,1994,1994,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,47331252.0,0.0,0.0,0.0,47331252.0,0.0,16695048,0.0,0.0,0
+210,H0,1994,1994,1994,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,17211020.0,0.0,0.0,0.0,17211020.0,0.0,8294533,0.0,0.0,0
+220,H0,1994,1994,1994,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,1163562.0,0.0,0.0,0.0,1163562.0,0.0,1161112,0.0,0.0,0
+209,H0,1994,1994,1994,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,4000000.0,0.0,0.0,0.0,4000000.0,0.0,1900000,0.0,0.0,0
+247,H0,1995,1995,1995,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,7,Volume in litres,8987188.0,0.0,0.0,0.0,3594875.0,0.0,316275,0.0,0.0,0
+248,H0,1995,1995,1995,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,7,Volume in litres,45932072.0,0.0,0.0,0.0,18372828.0,0.0,1836281,0.0,0.0,0
+249,H0,1995,1995,1995,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,2765.0,0.0,0.0,0.0,2765.0,0.0,34422808,0.0,0.0,0
+250,H0,1995,1995,1995,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,10.0,0.0,0.0,0.0,10.0,0.0,124477,0.0,0.0,0
+255,H0,1995,1995,1995,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,8,Weight in kilograms,1312.0,0.0,0.0,0.0,1312.0,0.0,5350,0.0,0.0,0
+252,H0,1995,1995,1995,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,8,Weight in kilograms,35894.0,0.0,0.0,0.0,35894.0,0.0,783614,0.0,0.0,0
+253,H0,1995,1995,1995,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,8,Weight in kilograms,54570.0,0.0,0.0,0.0,54570.0,0.0,378250,0.0,0.0,0
+254,H0,1995,1995,1995,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,8,Weight in kilograms,1107187.0,0.0,0.0,0.0,1107187.0,0.0,7340887,0.0,0.0,0
+246,H0,1995,1995,1995,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,60480.0,0.0,0.0,0.0,60480.0,0.0,75600,0.0,0.0,0
+251,H0,1995,1995,1995,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,8,Weight in kilograms,1960875.0,0.0,0.0,0.0,1960875.0,0.0,11673464,0.0,0.0,0
+245,H0,1995,1995,1995,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,3647386.0,0.0,0.0,0.0,3647386.0,0.0,5017590,0.0,0.0,0
+233,H0,1995,1995,1995,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,140235440.0,0.0,0.0,0.0,140235440.0,0.0,86196200,0.0,0.0,0
+243,H0,1995,1995,1995,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,145284176.0,0.0,0.0,0.0,145284176.0,0.0,206540656,0.0,0.0,0
+242,H0,1995,1995,1995,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,822187.0,0.0,0.0,0.0,822187.0,0.0,1376213,0.0,0.0,0
+241,H0,1995,1995,1995,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,217621.0,0.0,0.0,0.0,217621.0,0.0,258827,0.0,0.0,0
+240,H0,1995,1995,1995,4,0,1,Import,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,4874.0,0.0,0.0,0.0,4874.0,0.0,8761,0.0,0.0,0
+239,H0,1995,1995,1995,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,915124.0,0.0,0.0,0.0,915124.0,0.0,1384347,0.0,0.0,0
+238,H0,1995,1995,1995,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,1168710.0,0.0,0.0,0.0,1168710.0,0.0,1792076,0.0,0.0,0
+237,H0,1995,1995,1995,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,9172308.0,0.0,0.0,0.0,9172308.0,0.0,5316660,0.0,0.0,0
+236,H0,1995,1995,1995,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,227378.0,0.0,0.0,0.0,227378.0,0.0,237567,0.0,0.0,0
+235,H0,1995,1995,1995,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,12378425.0,0.0,0.0,0.0,12378425.0,0.0,7240354,0.0,0.0,0
+234,H0,1995,1995,1995,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,1814500.0,0.0,0.0,0.0,1814500.0,0.0,16928078,0.0,0.0,0
+232,H0,1995,1995,1995,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,47969136.0,0.0,0.0,0.0,47969136.0,0.0,31179326,0.0,0.0,0
+244,H0,1995,1995,1995,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,5937203.0,0.0,0.0,0.0,5937203.0,0.0,7793251,0.0,0.0,0
+113,H1,1996,1996,1996,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,8,Weight in kilograms,51944.0,0.0,0.0,0.0,51944.0,0.0,384939,0.0,0.0,0
+0,H1,1996,1996,1996,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,88738160.0,0.0,0.0,0.0,88738160.0,0.0,51026076,0.0,0.0,0
+111,H1,1996,1996,1996,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,8,Weight in kilograms,99929.0,0.0,0.0,0.0,99929.0,0.0,665790,0.0,0.0,0
+108,H1,1996,1996,1996,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,8,Weight in kilograms,323937.0,0.0,0.0,0.0,323937.0,0.0,3078949,0.0,0.0,0
+96,H1,1996,1996,1996,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,95.0,0.0,0.0,0.0,95.0,0.0,1200096,0.0,0.0,0
+95,H1,1996,1996,1996,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,6614.0,0.0,0.0,0.0,6614.0,0.0,76162688,0.0,0.0,0
+94,H1,1996,1996,1996,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,259.0,0.0,0.0,0.0,259.0,0.0,121021,0.0,0.0,0
+76,H1,1996,1996,1996,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,7,Volume in litres,1350155.0,0.0,0.0,0.0,540062.0,0.0,75514,0.0,0.0,0
+75,H1,1996,1996,1996,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,7,Volume in litres,49381544.0,0.0,0.0,0.0,19752616.0,0.0,2066240,0.0,0.0,0
+74,H1,1996,1996,1996,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,7,Volume in litres,162000.0,0.0,0.0,0.0,64800.0,0.0,16039,0.0,0.0,0
+73,H1,1996,1996,1996,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,7,Volume in litres,17380878.0,0.0,0.0,0.0,6952351.0,0.0,732478,0.0,0.0,0
+39,H1,1996,1996,1996,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,52921.0,0.0,0.0,0.0,52921.0,0.0,63503,0.0,0.0,0
+38,H1,1996,1996,1996,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,2604375.0,0.0,0.0,0.0,2604375.0,0.0,3798246,0.0,0.0,0
+109,H1,1996,1996,1996,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,8,Weight in kilograms,3862003.0,0.0,0.0,0.0,3862003.0,0.0,17723528,0.0,0.0,0
+37,H1,1996,1996,1996,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,131037576.0,0.0,0.0,0.0,131037576.0,0.0,170440768,0.0,0.0,0
+35,H1,1996,1996,1996,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,13375.0,0.0,0.0,0.0,13375.0,0.0,36440,0.0,0.0,0
+34,H1,1996,1996,1996,4,0,1,Import,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,132.0,0.0,0.0,0.0,132.0,0.0,1935,0.0,0.0,0
+33,H1,1996,1996,1996,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,223569.0,0.0,0.0,0.0,223569.0,0.0,375633,0.0,0.0,0
+32,H1,1996,1996,1996,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,1476332.0,0.0,0.0,0.0,1476332.0,0.0,2090211,0.0,0.0,0
+6,H1,1996,1996,1996,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,4500000.0,0.0,0.0,0.0,4500000.0,0.0,2238750,0.0,0.0,0
+5,H1,1996,1996,1996,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,12754335.0,0.0,0.0,0.0,12754335.0,0.0,7106219,0.0,0.0,0
+4,H1,1996,1996,1996,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,31129632.0,0.0,0.0,0.0,31129632.0,0.0,17262436,0.0,0.0,0
+3,H1,1996,1996,1996,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,18776866.0,0.0,0.0,0.0,18776866.0,0.0,10046395,0.0,0.0,0
+1,H1,1996,1996,1996,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,163280320.0,0.0,0.0,0.0,163280320.0,0.0,79893056,0.0,0.0,0
+112,H1,1996,1996,1996,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,8,Weight in kilograms,1264952.0,0.0,0.0,0.0,1264952.0,0.0,7178672,0.0,0.0,0
+36,H1,1996,1996,1996,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,143889.0,0.0,0.0,0.0,143889.0,0.0,204811,0.0,0.0,0
+110,H1,1996,1996,1996,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,8,Weight in kilograms,117917.0,0.0,0.0,0.0,117917.0,0.0,970417,0.0,0.0,0
+2,H1,1996,1996,1996,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,63261.0,0.0,0.0,0.0,63261.0,0.0,50975,0.0,0.0,0
+114,H1,1997,1997,1997,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,8,Weight in kilograms,232062.0,0.0,0.0,0.0,232062.0,0.0,1750252,0.0,0.0,0
+43,H1,1997,1997,1997,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,259041.0,0.0,0.0,0.0,259041.0,0.0,300489,0.0,0.0,0
+42,H1,1997,1997,1997,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,454530.0,0.0,0.0,0.0,454530.0,0.0,534613,0.0,0.0,0
+41,H1,1997,1997,1997,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,3367375.0,0.0,0.0,0.0,3367375.0,0.0,1096383,0.0,0.0,0
+40,H1,1997,1997,1997,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,2257272.0,0.0,0.0,0.0,2257272.0,0.0,2372554,0.0,0.0,0
+46,H1,1997,1997,1997,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,3747062.0,0.0,0.0,0.0,3747062.0,0.0,3310725,0.0,0.0,0
+80,H1,1997,1997,1997,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,7,Volume in litres,532500.0,0.0,0.0,0.0,213000.0,0.0,28625,0.0,0.0,0
+79,H1,1997,1997,1997,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,7,Volume in litres,35159616.0,0.0,0.0,0.0,14063847.0,0.0,1532708,0.0,0.0,0
+122,H1,1997,1997,1997,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,8,Weight in kilograms,739812.0,0.0,0.0,0.0,739812.0,0.0,5473306,0.0,0.0,0
+121,H1,1997,1997,1997,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,8,Weight in kilograms,73151.0,0.0,0.0,0.0,73151.0,0.0,570506,0.0,0.0,0
+97,H1,1997,1997,1997,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,175.0,0.0,0.0,0.0,175.0,0.0,1941779,0.0,0.0,0
+98,H1,1997,1997,1997,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,15942.0,0.0,0.0,0.0,15942.0,0.0,157536416,0.0,0.0,0
+120,H1,1997,1997,1997,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,8,Weight in kilograms,210847.0,0.0,0.0,0.0,210847.0,0.0,1248345,0.0,0.0,0
+44,H1,1997,1997,1997,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,122148824.0,0.0,0.0,0.0,122148824.0,0.0,125756720,0.0,0.0,0
+77,H1,1997,1997,1997,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,7,Volume in litres,19438388.0,0.0,0.0,0.0,7775355.0,0.0,807487,0.0,0.0,0
+78,H1,1997,1997,1997,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,7,Volume in litres,82500.0,0.0,0.0,0.0,33000.0,0.0,5135,0.0,0.0,0
+45,H1,1997,1997,1997,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,100800.0,0.0,0.0,0.0,100800.0,0.0,93889,0.0,0.0,0
+115,H1,1997,1997,1997,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,8,Weight in kilograms,331749.0,0.0,0.0,0.0,331749.0,0.0,2086732,0.0,0.0,0
+12,H1,1997,1997,1997,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,51000.0,0.0,0.0,0.0,51000.0,0.0,32639,0.0,0.0,0
+11,H1,1997,1997,1997,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,6657003.0,0.0,0.0,0.0,6657003.0,0.0,4097820,0.0,0.0,0
+10,H1,1997,1997,1997,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,41979064.0,0.0,0.0,0.0,41979064.0,0.0,19874034,0.0,0.0,0
+9,H1,1997,1997,1997,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,12341522.0,0.0,0.0,0.0,12341522.0,0.0,6795766,0.0,0.0,0
+8,H1,1997,1997,1997,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,260218192.0,0.0,0.0,0.0,260218192.0,0.0,127307416,0.0,0.0,0
+7,H1,1997,1997,1997,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,79222496.0,0.0,0.0,0.0,79222496.0,0.0,48489072,0.0,0.0,0
+116,H1,1997,1997,1997,4,0,1,Import,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,8,Weight in kilograms,859.0,0.0,0.0,0.0,859.0,0.0,36585,0.0,0.0,0
+117,H1,1997,1997,1997,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,8,Weight in kilograms,19601.0,0.0,0.0,0.0,19601.0,0.0,264399,0.0,0.0,0
+119,H1,1997,1997,1997,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,8,Weight in kilograms,183307.0,0.0,0.0,0.0,183307.0,0.0,1292647,0.0,0.0,0
+118,H1,1997,1997,1997,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,8,Weight in kilograms,41112.0,0.0,0.0,0.0,41112.0,0.0,508955,0.0,0.0,0
+51,H1,1998,1998,1998,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,152755776.0,0.0,0.0,0.0,152755776.0,0.0,82420368,0.0,0.0,0
+49,H1,1998,1998,1998,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,1066062.0,0.0,0.0,0.0,1066062.0,0.0,665394,0.0,0.0,0
+52,H1,1998,1998,1998,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,10000000.0,0.0,0.0,0.0,10000000.0,0.0,1020000,0.0,0.0,0
+47,H1,1998,1998,1998,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,3280108.0,0.0,0.0,0.0,3280108.0,0.0,2257872,0.0,0.0,0
+48,H1,1998,1998,1998,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,8551652.0,0.0,0.0,0.0,8551652.0,0.0,4621419,0.0,0.0,0
+123,H1,1998,1998,1998,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,8,Weight in kilograms,223167.0,0.0,0.0,0.0,223167.0,0.0,868659,0.0,0.0,0
+126,H1,1998,1998,1998,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,8,Weight in kilograms,123756.0,0.0,0.0,0.0,123756.0,0.0,594486,0.0,0.0,0
+125,H1,1998,1998,1998,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,8,Weight in kilograms,11437.0,0.0,0.0,0.0,11437.0,0.0,88691,0.0,0.0,0
+124,H1,1998,1998,1998,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,8,Weight in kilograms,128035.0,0.0,0.0,0.0,128035.0,0.0,708032,0.0,0.0,0
+53,H1,1998,1998,1998,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,9239221.0,0.0,0.0,0.0,9239221.0,0.0,5688085,0.0,0.0,0
+17,H1,1998,1998,1998,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,3590500.0,0.0,0.0,0.0,3590500.0,0.0,2603500,0.0,0.0,0
+16,H1,1998,1998,1998,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,25061054.0,0.0,0.0,0.0,25061054.0,0.0,14779597,0.0,0.0,0
+15,H1,1998,1998,1998,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,4498609.0,0.0,0.0,0.0,4498609.0,0.0,2587200,0.0,0.0,0
+14,H1,1998,1998,1998,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,256488560.0,0.0,0.0,0.0,256488560.0,0.0,123920680,0.0,0.0,0
+13,H1,1998,1998,1998,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,11744421.0,0.0,0.0,0.0,11744421.0,0.0,4558869,0.0,0.0,0
+127,H1,1998,1998,1998,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,8,Weight in kilograms,67659.0,0.0,0.0,0.0,67659.0,0.0,903302,0.0,0.0,0
+54,H1,1998,1998,1998,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,150464.0,0.0,0.0,0.0,150464.0,0.0,112675,0.0,0.0,0
+50,H1,1998,1998,1998,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,622171.0,0.0,0.0,0.0,622171.0,0.0,479648,0.0,0.0,0
+82,H1,1998,1998,1998,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,7,Volume in litres,340000.0,0.0,0.0,0.0,136000.0,0.0,30871,0.0,0.0,0
+83,H1,1998,1998,1998,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,7,Volume in litres,20541796.0,0.0,0.0,0.0,8216718.0,0.0,953166,0.0,0.0,0
+84,H1,1998,1998,1998,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,7,Volume in litres,13307373.0,0.0,0.0,0.0,5322949.0,0.0,36274,0.0,0.0,0
+128,H1,1998,1998,1998,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,8,Weight in kilograms,27238.0,0.0,0.0,0.0,27238.0,0.0,206389,0.0,0.0,0
+99,H1,1998,1998,1998,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,185.0,0.0,0.0,0.0,185.0,0.0,1752395,0.0,0.0,0
+100,H1,1998,1998,1998,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,85956.0,0.0,0.0,0.0,85956.0,0.0,279683488,0.0,0.0,0
+81,H1,1998,1998,1998,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,7,Volume in litres,9265000.0,0.0,0.0,0.0,3706000.0,0.0,393783,0.0,0.0,0
+19,H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,245851500.0,0.0,0.0,0.0,245851500.0,0.0,77042951,0.0,0.0,0
+134,H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,8,Weight in kilograms,224980.0,0.0,0.0,0.0,224980.0,0.0,1665836,0.0,0.0,0
+133,H1,1999,1999,1999,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,8,Weight in kilograms,111804.0,0.0,0.0,0.0,111804.0,0.0,1187101,0.0,0.0,0
+132,H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,8,Weight in kilograms,50761.0,0.0,0.0,0.0,50761.0,0.0,352617,0.0,0.0,0
+23,H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,13795000.0,0.0,0.0,0.0,13795000.0,0.0,4473860,0.0,0.0,0
+102,H1,1999,1999,1999,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,50.0,0.0,0.0,0.0,50.0,0.0,479144,0.0,0.0,0
+103,H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,28181.0,0.0,0.0,0.0,28181.0,0.0,222918844,0.0,0.0,0
+104,H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,90.0,0.0,0.0,0.0,90.0,0.0,749658,0.0,0.0,0
+87,H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,7,Volume in litres,34526278.0,0.0,0.0,0.0,13810511.0,0.0,1325843,0.0,0.0,0
+86,H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,7,Volume in litres,450000.0,0.0,0.0,0.0,180000.0,0.0,44399,0.0,0.0,0
+20,H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,933812.0,0.0,0.0,0.0,933812.0,0.0,181378,0.0,0.0,0
+85,H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,7,Volume in litres,23066728.0,0.0,0.0,0.0,9226691.0,0.0,996739,0.0,0.0,0
+21,H1,1999,1999,1999,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,1250937.0,0.0,0.0,0.0,1250937.0,0.0,178677,0.0,0.0,0
+22,H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,92035273.0,0.0,0.0,0.0,92035273.0,0.0,28691518,0.0,0.0,0
+18,H1,1999,1999,1999,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,320250.0,0.0,0.0,0.0,320250.0,0.0,282579,0.0,0.0,0
+101,H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,4443.0,0.0,0.0,0.0,4443.0,0.0,40328328,0.0,0.0,0
+24,H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,8312.0,0.0,0.0,0.0,8312.0,0.0,4194,0.0,0.0,0
+135,H1,1999,1999,1999,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,8,Weight in kilograms,27144.0,0.0,0.0,0.0,27144.0,0.0,153735,0.0,0.0,0
+62,H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,40000.0,0.0,0.0,0.0,40000.0,0.0,15770,0.0,0.0,0
+61,H1,1999,1999,1999,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,10043749.0,0.0,0.0,0.0,10043749.0,0.0,5483492,0.0,0.0,0
+60,H1,1999,1999,1999,4,0,1,Import,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,731000.0,0.0,0.0,0.0,731000.0,0.0,459498,0.0,0.0,0
+131,H1,1999,1999,1999,4,0,1,Import,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,8,Weight in kilograms,1687.0,0.0,0.0,0.0,1687.0,0.0,29044,0.0,0.0,0
+58,H1,1999,1999,1999,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,874026.0,0.0,0.0,0.0,874026.0,0.0,543895,0.0,0.0,0
+57,H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,767268.0,0.0,0.0,0.0,767268.0,0.0,465305,0.0,0.0,0
+56,H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,1742882.0,0.0,0.0,0.0,1742882.0,0.0,993427,0.0,0.0,0
+59,H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,115839971.0,0.0,0.0,0.0,115839971.0,0.0,66250265,0.0,0.0,0
+55,H1,1999,1999,1999,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,5628140.0,0.0,0.0,0.0,5628140.0,0.0,3092411,0.0,0.0,0
+136,H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,8,Weight in kilograms,428624.0,0.0,0.0,0.0,428624.0,0.0,2088508,0.0,0.0,0
+129,H1,1999,1999,1999,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,8,Weight in kilograms,5625.0,0.0,0.0,0.0,5625.0,0.0,18733,0.0,0.0,0
+130,H1,1999,1999,1999,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,8,Weight in kilograms,6687.0,0.0,0.0,0.0,6687.0,0.0,45300,0.0,0.0,0
+106,H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,27189.0,0.0,0.0,0.0,27189.0,0.0,242490755,0.0,0.0,0
+107,H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,4114.0,0.0,0.0,0.0,4114.0,0.0,15564059,0.0,0.0,0
+137,H1,2000,2000,2000,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,1,No Quantity,0.0,0.0,0.0,0.0,109129.0,0.0,139368,0.0,0.0,0
+144,H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,1,No Quantity,0.0,0.0,0.0,0.0,342837.0,0.0,1623673,0.0,0.0,0
+143,H1,2000,2000,2000,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,1,No Quantity,0.0,0.0,0.0,0.0,17011.0,0.0,113902,0.0,0.0,0
+142,H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,1,No Quantity,0.0,0.0,0.0,0.0,68138.0,0.0,337965,0.0,0.0,0
+141,H1,2000,2000,2000,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,1,No Quantity,0.0,0.0,0.0,0.0,563885.0,0.0,6973359,0.0,0.0,0
+140,H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,1,No Quantity,0.0,0.0,0.0,0.0,361.0,0.0,3038,0.0,0.0,0
+138,H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,1,No Quantity,0.0,0.0,0.0,0.0,17380.0,0.0,79881,0.0,0.0,0
+105,H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,3876.0,0.0,0.0,0.0,3876.0,0.0,30549589,0.0,0.0,0
+70,H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,18900.0,0.0,0.0,0.0,18900.0,0.0,10706,0.0,0.0,0
+28,H1,2000,2000,2000,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,21811.0,0.0,0.0,0.0,21811.0,0.0,23092,0.0,0.0,0
+26,H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,56910479.0,0.0,0.0,0.0,56910479.0,0.0,14995473,0.0,0.0,0
+69,H1,2000,2000,2000,4,0,1,Import,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,146800.0,0.0,0.0,0.0,146800.0,0.0,80634,0.0,0.0,0
+68,H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,89836583.0,0.0,0.0,0.0,89836583.0,0.0,56566287,0.0,0.0,0
+25,H1,2000,2000,2000,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,98947.0,0.0,0.0,0.0,98947.0,0.0,91145,0.0,0.0,0
+66,H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,987840.0,0.0,0.0,0.0,987840.0,0.0,628949,0.0,0.0,0
+65,H1,2000,2000,2000,4,0,1,Import,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,2.0,0.0,0.0,0.0,2.0,0.0,187,0.0,0.0,0
+64,H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,1289387.0,0.0,0.0,0.0,1289387.0,0.0,801820,0.0,0.0,0
+63,H1,2000,2000,2000,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,7008807.0,0.0,0.0,0.0,7008807.0,0.0,4362245,0.0,0.0,0
+72,H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,22455.0,0.0,0.0,0.0,22455.0,0.0,18981,0.0,0.0,0
+88,H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,12971145.0,0.0,0.0,0.0,12971145.0,0.0,1324940,0.0,0.0,0
+67,H1,2000,2000,2000,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,1155396.0,0.0,0.0,0.0,1155396.0,0.0,750865,0.0,0.0,0
+139,H1,2000,2000,2000,4,0,1,Import,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,1,No Quantity,0.0,0.0,0.0,0.0,2600.0,0.0,40973,0.0,0.0,0
+89,H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,52000.0,0.0,0.0,0.0,52000.0,0.0,1300,0.0,0.0,0
+27,H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,453776.0,0.0,0.0,0.0,453776.0,0.0,224283,0.0,0.0,0
+71,H1,2000,2000,2000,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,14417464.0,0.0,0.0,0.0,14417464.0,0.0,8906103,0.0,0.0,0
+30,H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,42312000.0,0.0,0.0,0.0,42312000.0,0.0,12158415,0.0,0.0,0
+31,H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,2260070.0,0.0,0.0,0.0,2260070.0,0.0,652024,0.0,0.0,0
+29,H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,273322475.0,0.0,0.0,0.0,273322475.0,0.0,72828058,0.0,0.0,0
+92,H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,55000.0,0.0,0.0,0.0,55000.0,0.0,42982,0.0,0.0,0
+91,H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,14668301.0,0.0,0.0,0.0,14668301.0,0.0,1482556,0.0,0.0,0
+90,H1,2000,2000,2000,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,18.0,0.0,0.0,0.0,18.0,0.0,208,0.0,0.0,0
+93,H1,2000,2000,2000,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,280.0,0.0,0.0,0.0,280.0,0.0,216,0.0,0.0,0
+831,H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,18486.0,0.0,0.0,0.0,18486.0,0.0,143102950,0.0,0.0,0
+827,H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,14500.0,0.0,0.0,0.0,14500.0,0.0,9215,0.0,0.0,0
+828,H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,42421.0,0.0,0.0,0.0,42421.0,0.0,2690,0.0,0.0,0
+826,H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,10735031.0,0.0,0.0,0.0,10735031.0,0.0,1183995,0.0,0.0,0
+829,H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,903.0,0.0,0.0,0.0,903.0,0.0,7913889,0.0,0.0,0
+830,H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,10.0,0.0,0.0,0.0,10.0,0.0,2057,0.0,0.0,0
+832,H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,9447.0,0.0,0.0,0.0,9447.0,0.0,81581149,0.0,0.0,0
+841,H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,98.0,0.0,0.0,0.0,123601.0,0.0,1088999,0.0,0.0,2
+834,H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,4.0,0.0,0.0,0.0,7753.0,0.0,44586,0.0,0.0,2
+835,H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,3.0,0.0,0.0,0.0,36000.0,0.0,9000,0.0,0.0,2
+836,H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,2.0,0.0,0.0,0.0,2080.0,0.0,20580,0.0,0.0,2
+838,H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,13.0,0.0,0.0,0.0,12236.0,0.0,193872,0.0,0.0,2
+839,H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,2.0,0.0,0.0,0.0,5736.0,0.0,37131,0.0,0.0,2
+840,H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,135.0,0.0,0.0,0.0,342289.0,0.0,1397931,0.0,0.0,2
+825,H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,507.0,0.0,0.0,0.0,507.0,0.0,2266,0.0,0.0,0
+833,H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,8.0,0.0,0.0,0.0,99683.0,0.0,170135,0.0,0.0,2
+837,H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,241.0,0.0,0.0,0.0,307583.0,0.0,5094885,0.0,0.0,2
+820,H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,1570855.0,0.0,0.0,0.0,1570855.0,0.0,819940,0.0,0.0,0
+823,H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,56963.0,0.0,0.0,0.0,56963.0,0.0,255894,0.0,0.0,0
+808,H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,86960.0,0.0,0.0,0.0,86960.0,0.0,35971,0.0,0.0,0
+809,H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,78323071.0,0.0,0.0,0.0,78323071.0,0.0,16815745,0.0,0.0,0
+810,H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,10048555.0,0.0,0.0,0.0,10048555.0,0.0,2371701,0.0,0.0,0
+811,H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,18144.0,0.0,0.0,0.0,18144.0,0.0,3950,0.0,0.0,0
+812,H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,327016755.0,0.0,0.0,0.0,327016755.0,0.0,69855041,0.0,0.0,0
+813,H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,21970448.0,0.0,0.0,0.0,21970448.0,0.0,5477353,0.0,0.0,0
+814,H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,500000.0,0.0,0.0,0.0,500000.0,0.0,97500,0.0,0.0,0
+824,H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,10389511.0,0.0,0.0,0.0,10389511.0,0.0,919188,0.0,0.0,0
+816,H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,4248126.0,0.0,0.0,0.0,4248126.0,0.0,2711283,0.0,0.0,0
+817,H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,876433.0,0.0,0.0,0.0,876433.0,0.0,719908,0.0,0.0,0
+818,H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,226934.0,0.0,0.0,0.0,226934.0,0.0,603896,0.0,0.0,0
+819,H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,78387411.0,0.0,0.0,0.0,78387411.0,0.0,43918016,0.0,0.0,0
+821,H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,84100.0,0.0,0.0,0.0,84100.0,0.0,41359,0.0,0.0,0
+815,H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,3157034.0,0.0,0.0,0.0,3157034.0,0.0,1869839,0.0,0.0,0
+822,H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,3128595.0,0.0,0.0,0.0,3128595.0,0.0,1785774,0.0,0.0,0
+863,H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,18046.0,0.0,0.0,0.0,18046.0,0.0,5901,0.0,0.0,0
+864,H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,96090.0,0.0,0.0,0.0,96090.0,0.0,9116,0.0,0.0,0
+865,H1,2002,2002,2002,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,193.0,0.0,0.0,0.0,193.0,0.0,1136,0.0,0.0,0
+866,H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,3929.0,0.0,0.0,0.0,3929.0,0.0,27178924,0.0,0.0,0
+867,H1,2002,2002,2002,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,2.0,0.0,0.0,0.0,2.0,0.0,3758,0.0,0.0,0
+868,H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,6195.0,0.0,0.0,0.0,6195.0,0.0,60276703,0.0,0.0,0
+871,H1,2002,2002,2002,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,149.0,0.0,0.0,0.0,589295.0,0.0,3148397,0.0,0.0,2
+870,H1,2002,2002,2002,4,0,1,Import,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,178.0,0.0,0.0,0.0,268903.0,0.0,2297531,0.0,0.0,2
+862,H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,10553642.0,0.0,0.0,0.0,10553642.0,0.0,1145622,0.0,0.0,0
+872,H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,6.0,0.0,0.0,0.0,19027.0,0.0,110601,0.0,0.0,2
+873,H1,2002,2002,2002,4,0,1,Import,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,3.0,0.0,0.0,0.0,44000.0,0.0,12602,0.0,0.0,2
+874,H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,2.0,0.0,0.0,0.0,16672.0,0.0,28806,0.0,0.0,2
+875,H1,2002,2002,2002,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,692.0,0.0,0.0,0.0,954274.0,0.0,8837640,0.0,0.0,2
+869,H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,26.0,0.0,0.0,0.0,52001.0,0.0,161767,0.0,0.0,2
+861,H1,2002,2002,2002,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,4411.0,0.0,0.0,0.0,4411.0,0.0,3085,0.0,0.0,0
+858,H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,267161.0,0.0,0.0,0.0,267161.0,0.0,841222,0.0,0.0,0
+859,H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,11999321.0,0.0,0.0,0.0,11999321.0,0.0,1066144,0.0,0.0,0
+857,H1,2002,2002,2002,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,5368578.0,0.0,0.0,0.0,5368578.0,0.0,3067737,0.0,0.0,0
+856,H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,198064.0,0.0,0.0,0.0,198064.0,0.0,135917,0.0,0.0,0
+855,H1,2002,2002,2002,4,0,1,Import,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,1521800.0,0.0,0.0,0.0,1521800.0,0.0,841650,0.0,0.0,0
+854,H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,72651231.0,0.0,0.0,0.0,72651231.0,0.0,54261245,0.0,0.0,0
+876,H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,1263.0,0.0,0.0,0.0,983240.0,0.0,9829587,0.0,0.0,2
+852,H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,584718.0,0.0,0.0,0.0,584718.0,0.0,1123183,0.0,0.0,0
+851,H1,2002,2002,2002,4,0,1,Import,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,20000.0,0.0,0.0,0.0,20000.0,0.0,17000,0.0,0.0,0
+850,H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,586066.0,0.0,0.0,0.0,586066.0,0.0,1276824,0.0,0.0,0
+849,H1,2002,2002,2002,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,2382600.0,0.0,0.0,0.0,2382600.0,0.0,1243532,0.0,0.0,0
+848,H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,23350.0,0.0,0.0,0.0,23350.0,0.0,18953,0.0,0.0,0
+847,H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,15135232.0,0.0,0.0,0.0,15135232.0,0.0,5847612,0.0,0.0,0
+846,H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,371531243.0,0.0,0.0,0.0,371531243.0,0.0,116847635,0.0,0.0,0
+845,H1,2002,2002,2002,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,225243.0,0.0,0.0,0.0,225243.0,0.0,98576,0.0,0.0,0
+860,H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,17530.0,0.0,0.0,0.0,17530.0,0.0,3808,0.0,0.0,0
+853,H1,2002,2002,2002,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,58053.0,0.0,0.0,0.0,58053.0,0.0,108654,0.0,0.0,0
+843,H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,404968789.0,0.0,0.0,0.0,404968789.0,0.0,130420365,0.0,0.0,0
+844,H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,4172508.0,0.0,0.0,0.0,4172508.0,0.0,2171728,0.0,0.0,0
+842,H1,2002,2002,2002,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,6006160.0,0.0,0.0,0.0,6006160.0,0.0,1844991,0.0,0.0,0
+879,H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,4156945.0,0.0,0.0,0.0,4156945.0,0.0,2554280,0.0,0.0,0
+892,H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,14306.0,0.0,0.0,0.0,14306.0,0.0,230308,0.0,0.0,0
+891,H1,2003,2003,2003,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,1943720.0,0.0,0.0,0.0,1943720.0,0.0,1227217,0.0,0.0,0
+890,H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,326942.0,0.0,0.0,0.0,326942.0,0.0,213262,0.0,0.0,0
+889,H1,2003,2003,2003,4,0,1,Import,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,3883224.0,0.0,0.0,0.0,3883224.0,0.0,2552300,0.0,0.0,0
+888,H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,79316592.0,0.0,0.0,0.0,79316592.0,0.0,70686132,0.0,0.0,0
+887,H1,2003,2003,2003,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,133537.0,0.0,0.0,0.0,133537.0,0.0,270408,0.0,0.0,0
+886,H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,625069.0,0.0,0.0,0.0,625069.0,0.0,776866,0.0,0.0,0
+884,H1,2003,2003,2003,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,2944547.0,0.0,0.0,0.0,2944547.0,0.0,2123764,0.0,0.0,0
+893,H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,17922707.0,0.0,0.0,0.0,17922707.0,0.0,2389523,0.0,0.0,0
+883,H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,1102038.0,0.0,0.0,0.0,1102038.0,0.0,835200,0.0,0.0,0
+882,H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,31080716.0,0.0,0.0,0.0,31080716.0,0.0,12538391,0.0,0.0,0
+881,H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,339226777.0,0.0,0.0,0.0,339226777.0,0.0,125750041,0.0,0.0,0
+880,H1,2003,2003,2003,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,172800.0,0.0,0.0,0.0,172800.0,0.0,106539,0.0,0.0,0
+878,H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,367725240.0,0.0,0.0,0.0,367725240.0,0.0,144115331,0.0,0.0,0
+877,H1,2003,2003,2003,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,698752.0,0.0,0.0,0.0,698752.0,0.0,624925,0.0,0.0,0
+885,H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,4381827.0,0.0,0.0,0.0,4381827.0,0.0,4158507,0.0,0.0,0
+894,H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,68.0,0.0,0.0,0.0,68.0,0.0,395,0.0,0.0,0
+904,H1,2003,2003,2003,4,0,1,Import,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,1326.0,0.0,0.0,0.0,2029990.0,0.0,18157356,0.0,0.0,2
+896,H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,12371366.0,0.0,0.0,0.0,12371366.0,0.0,1675936,0.0,0.0,0
+895,H1,2003,2003,2003,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,6554.0,0.0,0.0,0.0,6554.0,0.0,45088,0.0,0.0,0
+910,H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,2129.0,0.0,0.0,0.0,2407517.0,0.0,26056814,0.0,0.0,2
+909,H1,2003,2003,2003,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,16236.0,0.0,0.0,0.0,16323318.0,0.0,135305798,0.0,0.0,2
+908,H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,48.0,0.0,0.0,0.0,119344.0,0.0,497480,0.0,0.0,2
+907,H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,44.0,0.0,0.0,0.0,37021.0,0.0,377572,0.0,0.0,2
+905,H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,0.0,0.0,0.0,0.0,115.0,0.0,750,0.0,0.0,2
+906,H1,2003,2003,2003,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,350.0,0.0,0.0,0.0,621457.0,0.0,6418905,0.0,0.0,2
+902,H1,2003,2003,2003,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,4.0,0.0,0.0,0.0,11779.0,0.0,79175,0.0,0.0,2
+901,H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,2.0,0.0,0.0,0.0,2.0,0.0,28313,0.0,0.0,0
+900,H1,2003,2003,2003,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,1.0,0.0,0.0,0.0,1.0,0.0,2970,0.0,0.0,0
+899,H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,6904.0,0.0,0.0,0.0,6904.0,0.0,76485785,0.0,0.0,0
+898,H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,19633.0,0.0,0.0,0.0,19633.0,0.0,4049,0.0,0.0,0
+897,H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,22561.0,0.0,0.0,0.0,22561.0,0.0,20989,0.0,0.0,0
+903,H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,87.0,0.0,0.0,0.0,211897.0,0.0,1019851,0.0,0.0,2
+935,H1,2004,2004,2004,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,1402.0,0.0,0.0,0.0,1402.0,0.0,172388,0.0,0.0,0
+940,H1,2004,2004,2004,4,0,1,Import,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,1313.0,0.0,0.0,0.0,2168694.0,0.0,20244134,0.0,0.0,2
+936,H1,2004,2004,2004,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,3095.0,0.0,0.0,0.0,3095.0,0.0,33640569,0.0,0.0,0
+937,H1,2004,2004,2004,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,2009.0,0.0,0.0,0.0,2009.0,0.0,25406485,0.0,0.0,0
+938,H1,2004,2004,2004,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,16.0,0.0,0.0,0.0,28853.0,0.0,164007,0.0,0.0,2
+939,H1,2004,2004,2004,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,2414.0,0.0,0.0,0.0,6166969.0,0.0,28067552,0.0,0.0,2
+941,H1,2004,2004,2004,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,629.0,0.0,0.0,0.0,861674.0,0.0,7389178,0.0,0.0,2
+913,H1,2004,2004,2004,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,8117335.0,0.0,0.0,0.0,8117335.0,0.0,5863006,0.0,0.0,0
+943,H1,2004,2004,2004,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,84.0,0.0,0.0,0.0,132843.0,0.0,947171,0.0,0.0,2
+944,H1,2004,2004,2004,4,0,1,Import,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,0.0,0.0,0.0,0.0,2000.0,0.0,9720,0.0,0.0,2
+945,H1,2004,2004,2004,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,455.0,0.0,0.0,0.0,539807.0,0.0,5810463,0.0,0.0,2
+946,H1,2004,2004,2004,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,39863.0,0.0,0.0,0.0,43682634.0,0.0,385821367,0.0,0.0,2
+947,H1,2004,2004,2004,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,8688.0,0.0,0.0,0.0,14112609.0,0.0,88086516,0.0,0.0,2
+934,H1,2004,2004,2004,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,200.0,0.0,0.0,0.0,200.0,0.0,2720000,0.0,0.0,0
+914,H1,2004,2004,2004,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,15906.0,0.0,0.0,0.0,15906.0,0.0,8487,0.0,0.0,0
+942,H1,2004,2004,2004,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,220.0,0.0,0.0,0.0,340761.0,0.0,4919608,0.0,0.0,2
+933,H1,2004,2004,2004,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,57140.0,0.0,0.0,0.0,57140.0,0.0,12208,0.0,0.0,0
+925,H1,2004,2004,2004,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,1696545.0,0.0,0.0,0.0,1696545.0,0.0,1544002,0.0,0.0,0
+931,H1,2004,2004,2004,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,11723705.0,0.0,0.0,0.0,11723705.0,0.0,1856902,0.0,0.0,0
+917,H1,2004,2004,2004,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,71962.0,0.0,0.0,0.0,71962.0,0.0,65053,0.0,0.0,0
+916,H1,2004,2004,2004,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,61921564.0,0.0,0.0,0.0,61921564.0,0.0,26932834,0.0,0.0,0
+911,H1,2004,2004,2004,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,941622.0,0.0,0.0,0.0,941622.0,0.0,561032,0.0,0.0,0
+912,H1,2004,2004,2004,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,572764735.0,0.0,0.0,0.0,572764735.0,0.0,225885654,0.0,0.0,0
+918,H1,2004,2004,2004,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,938135.0,0.0,0.0,0.0,938135.0,0.0,867904,0.0,0.0,0
+919,H1,2004,2004,2004,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,2836073.0,0.0,0.0,0.0,2836073.0,0.0,1538155,0.0,0.0,0
+920,H1,2004,2004,2004,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,1554924.0,0.0,0.0,0.0,1554924.0,0.0,1921985,0.0,0.0,0
+932,H1,2004,2004,2004,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,37219.0,0.0,0.0,0.0,37219.0,0.0,49282,0.0,0.0,0
+921,H1,2004,2004,2004,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,35428.0,0.0,0.0,0.0,35428.0,0.0,122127,0.0,0.0,0
+923,H1,2004,2004,2004,4,0,1,Import,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,4076229.0,0.0,0.0,0.0,4076229.0,0.0,3362084,0.0,0.0,0
+924,H1,2004,2004,2004,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,2481657.0,0.0,0.0,0.0,2481657.0,0.0,2877120,0.0,0.0,0
+926,H1,2004,2004,2004,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,108819.0,0.0,0.0,0.0,108819.0,0.0,237874,0.0,0.0,0
+927,H1,2004,2004,2004,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,168.0,0.0,0.0,0.0,168.0,0.0,108,0.0,0.0,0
+928,H1,2004,2004,2004,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,15222898.0,0.0,0.0,0.0,15222898.0,0.0,1770359,0.0,0.0,0
+929,H1,2004,2004,2004,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,39925.0,0.0,0.0,0.0,39925.0,0.0,33874,0.0,0.0,0
+930,H1,2004,2004,2004,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,17576.0,0.0,0.0,0.0,17576.0,0.0,35413,0.0,0.0,0
+922,H1,2004,2004,2004,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,86101883.0,0.0,0.0,0.0,86101883.0,0.0,96320329,0.0,0.0,0
+915,H1,2004,2004,2004,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,396555876.0,0.0,0.0,0.0,396555876.0,0.0,152337593,0.0,0.0,0
+966,H1,2005,2005,2005,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,505000.0,0.0,0.0,0.0,505000.0,0.0,225323,0.0,0.0,0
+949,H1,2005,2005,2005,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,621447755.0,0.0,0.0,0.0,621447755.0,0.0,215799997,0.0,0.0,0
+969,H1,2005,2005,2005,4,0,1,Import,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,1.0,0.0,0.0,0.0,1.0,0.0,10,0.0,0.0,0
+970,H1,2005,2005,2005,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,4644.0,0.0,0.0,0.0,4644.0,0.0,1378,0.0,0.0,0
+971,H1,2005,2005,2005,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,693.0,0.0,0.0,0.0,693.0,0.0,11554358,0.0,0.0,0
+972,H1,2005,2005,2005,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,94.0,0.0,0.0,0.0,94.0,0.0,902,0.0,0.0,0
+973,H1,2005,2005,2005,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,1025.0,0.0,0.0,0.0,1025.0,0.0,278163,0.0,0.0,0
+974,H1,2005,2005,2005,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,5358.0,0.0,0.0,0.0,5358.0,0.0,78287815,0.0,0.0,0
+968,H1,2005,2005,2005,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,14914638.0,0.0,0.0,0.0,14914638.0,0.0,2063526,0.0,0.0,0
+975,H1,2005,2005,2005,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,2758.0,0.0,0.0,0.0,2758.0,0.0,36155693,0.0,0.0,0
+977,H1,2005,2005,2005,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,3559.0,0.0,0.0,0.0,6599804.0,0.0,40287916,0.0,0.0,2
+978,H1,2005,2005,2005,4,0,1,Import,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,1434.0,0.0,0.0,0.0,2296229.0,0.0,22103500,0.0,0.0,2
+979,H1,2005,2005,2005,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,3279.0,0.0,0.0,0.0,8159397.0,0.0,42729983,0.0,0.0,2
+980,H1,2005,2005,2005,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,130.0,0.0,0.0,0.0,286769.0,0.0,2527302,0.0,0.0,2
+981,H1,2005,2005,2005,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,172.0,0.0,0.0,0.0,317930.0,0.0,2106244,0.0,0.0,2
+982,H1,2005,2005,2005,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,175.0,0.0,0.0,0.0,341090.0,0.0,2275311,0.0,0.0,2
+976,H1,2005,2005,2005,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,3.0,0.0,0.0,0.0,4426.0,0.0,22918,0.0,0.0,2
+948,H1,2005,2005,2005,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,3439596.0,0.0,0.0,0.0,3439596.0,0.0,1501568,0.0,0.0,0
+967,H1,2005,2005,2005,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,2836.0,0.0,0.0,0.0,2836.0,0.0,7225,0.0,0.0,0
+964,H1,2005,2005,2005,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,635.0,0.0,0.0,0.0,635.0,0.0,746,0.0,0.0,0
+950,H1,2005,2005,2005,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,38839719.0,0.0,0.0,0.0,38839719.0,0.0,18430073,0.0,0.0,0
+951,H1,2005,2005,2005,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,199924.0,0.0,0.0,0.0,199924.0,0.0,100061,0.0,0.0,0
+952,H1,2005,2005,2005,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,467054792.0,0.0,0.0,0.0,467054792.0,0.0,165332999,0.0,0.0,0
+953,H1,2005,2005,2005,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,58744601.0,0.0,0.0,0.0,58744601.0,0.0,20341964,0.0,0.0,0
+954,H1,2005,2005,2005,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,2530004.0,0.0,0.0,0.0,2530004.0,0.0,927008,0.0,0.0,0
+955,H1,2005,2005,2005,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,307282.0,0.0,0.0,0.0,307282.0,0.0,268892,0.0,0.0,0
+965,H1,2005,2005,2005,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,15546096.0,0.0,0.0,0.0,15546096.0,0.0,1716351,0.0,0.0,0
+956,H1,2005,2005,2005,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,2090142.0,0.0,0.0,0.0,2090142.0,0.0,2304141,0.0,0.0,0
+958,H1,2005,2005,2005,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,110879.0,0.0,0.0,0.0,110879.0,0.0,311448,0.0,0.0,0
+959,H1,2005,2005,2005,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,115613553.0,0.0,0.0,0.0,115613553.0,0.0,144009094,0.0,0.0,0
+960,H1,2005,2005,2005,4,0,1,Import,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,3962250.0,0.0,0.0,0.0,3962250.0,0.0,3503436,0.0,0.0,0
+961,H1,2005,2005,2005,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,6506624.0,0.0,0.0,0.0,6506624.0,0.0,8475696,0.0,0.0,0
+962,H1,2005,2005,2005,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,445130.0,0.0,0.0,0.0,445130.0,0.0,395204,0.0,0.0,0
+963,H1,2005,2005,2005,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,1.0,0.0,0.0,0.0,1.0,0.0,9,0.0,0.0,0
+957,H1,2005,2005,2005,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,2346842.0,0.0,0.0,0.0,2346842.0,0.0,3092870,0.0,0.0,0
+983,H1,2005,2005,2005,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,40471.0,0.0,0.0,0.0,47543579.0,0.0,421863158,0.0,0.0,2
+984,H1,2005,2005,2005,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,6222.0,0.0,0.0,0.0,9782615.0,0.0,79307841,0.0,0.0,2
+690,H1,2006,2006,2006,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,222.0,0.0,0.0,0.0,442938.0,0.0,3082891,0.0,0.0,2
+677,H1,2006,2006,2006,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,16258044.0,0.0,0.0,0.0,16258044.0,0.0,1867977,0.0,0.0,0
+678,H1,2006,2006,2006,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,8000.0,0.0,0.0,0.0,8000.0,0.0,6400,0.0,0.0,0
+679,H1,2006,2006,2006,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,8793.0,0.0,0.0,0.0,8793.0,0.0,1663,0.0,0.0,0
+680,H1,2006,2006,2006,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,14631269.0,0.0,0.0,0.0,14631269.0,0.0,1435363,0.0,0.0,0
+681,H1,2006,2006,2006,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,260003.0,0.0,0.0,0.0,260003.0,0.0,111801,0.0,0.0,0
+682,H1,2006,2006,2006,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,2247.0,0.0,0.0,0.0,2247.0,0.0,43581039,0.0,0.0,0
+676,H1,2006,2006,2006,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,2003.0,0.0,0.0,0.0,2003.0,0.0,3189,0.0,0.0,0
+683,H1,2006,2006,2006,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,56.0,0.0,0.0,0.0,56.0,0.0,65867,0.0,0.0,0
+685,H1,2006,2006,2006,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,319.0,0.0,0.0,0.0,519591.0,0.0,2626633,0.0,0.0,2
+686,H1,2006,2006,2006,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,7821.0,0.0,0.0,0.0,13615570.0,0.0,72434247,0.0,0.0,2
+687,H1,2006,2006,2006,4,0,1,Import,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,651.0,0.0,0.0,0.0,1044163.0,0.0,10052942,0.0,0.0,2
+693,H1,2006,2006,2006,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,3077.0,0.0,0.0,0.0,5285747.0,0.0,28328505,0.0,0.0,2
+692,H1,2006,2006,2006,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,30049.0,0.0,0.0,0.0,34595566.0,0.0,322967760,0.0,0.0,2
+691,H1,2006,2006,2006,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,391.0,0.0,0.0,0.0,1849188.0,0.0,5088772,0.0,0.0,2
+684,H1,2006,2006,2006,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,15919.0,0.0,0.0,0.0,15919.0,0.0,310052193,0.0,0.0,0
+675,H1,2006,2006,2006,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,114812.0,0.0,0.0,0.0,114812.0,0.0,143911,0.0,0.0,0
+674,H1,2006,2006,2006,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,819566.0,0.0,0.0,0.0,819566.0,0.0,1196232,0.0,0.0,0
+673,H1,2006,2006,2006,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,28304903.0,0.0,0.0,0.0,28304903.0,0.0,55393956,0.0,0.0,0
+660,H1,2006,2006,2006,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,2646538.0,0.0,0.0,0.0,2646538.0,0.0,1482718,0.0,0.0,0
+661,H1,2006,2006,2006,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,660478989.0,0.0,0.0,0.0,660478989.0,0.0,240643247,0.0,0.0,0
+662,H1,2006,2006,2006,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,63873797.0,0.0,0.0,0.0,63873797.0,0.0,28972528,0.0,0.0,0
+663,H1,2006,2006,2006,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,66471.0,0.0,0.0,0.0,66471.0,0.0,137065,0.0,0.0,0
+664,H1,2006,2006,2006,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,631603201.0,0.0,0.0,0.0,631603201.0,0.0,245439530,0.0,0.0,0
+688,H1,2006,2006,2006,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,5046.0,0.0,0.0,0.0,10877033.0,0.0,55086114,0.0,0.0,2
+665,H1,2006,2006,2006,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,95180149.0,0.0,0.0,0.0,95180149.0,0.0,37566238,0.0,0.0,0
+667,H1,2006,2006,2006,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,112654.0,0.0,0.0,0.0,112654.0,0.0,164169,0.0,0.0,0
+668,H1,2006,2006,2006,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,5688773.0,0.0,0.0,0.0,5688773.0,0.0,11065313,0.0,0.0,0
+669,H1,2006,2006,2006,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,4074357.0,0.0,0.0,0.0,4074357.0,0.0,7901539,0.0,0.0,0
+670,H1,2006,2006,2006,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,195830.0,0.0,0.0,0.0,195830.0,0.0,2948583,0.0,0.0,0
+671,H1,2006,2006,2006,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,136123896.0,0.0,0.0,0.0,136123896.0,0.0,252668342,0.0,0.0,0
+672,H1,2006,2006,2006,4,0,1,Import,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,4523430.0,0.0,0.0,0.0,4523430.0,0.0,5721715,0.0,0.0,0
+666,H1,2006,2006,2006,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,84449.0,0.0,0.0,0.0,84449.0,0.0,41364,0.0,0.0,0
+689,H1,2006,2006,2006,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,66.0,0.0,0.0,0.0,138063.0,0.0,1392398,0.0,0.0,2
+727,H1,2007,2007,2007,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,2275.0,0.0,0.0,0.0,6405042.0,0.0,34181656,0.0,0.0,2
+728,H1,2007,2007,2007,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,45283.0,0.0,0.0,0.0,44045659.0,0.0,432530954,0.0,0.0,2
+708,H1,2007,2007,2007,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,113615.0,0.0,0.0,0.0,113615.0,0.0,227230,0.0,0.0,0
+694,H1,2007,2007,2007,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,955803.0,0.0,0.0,0.0,955803.0,0.0,703312,0.0,0.0,0
+723,H1,2007,2007,2007,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,8426.0,0.0,0.0,0.0,16297411.0,0.0,84955742,0.0,0.0,2
+722,H1,2007,2007,2007,4,0,1,Import,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,1073.0,0.0,0.0,0.0,2067495.0,0.0,16674622,0.0,0.0,2
+721,H1,2007,2007,2007,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,10583.0,0.0,0.0,0.0,16397066.0,0.0,84463217,0.0,0.0,2
+720,H1,2007,2007,2007,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,2912.0,0.0,0.0,0.0,3462033.0,0.0,21201041,0.0,0.0,2
+719,H1,2007,2007,2007,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,15996.0,0.0,0.0,0.0,15996.0,0.0,354535970,0.0,0.0,0
+718,H1,2007,2007,2007,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,160.0,0.0,0.0,0.0,160.0,0.0,81478,0.0,0.0,0
+717,H1,2007,2007,2007,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,2.0,0.0,0.0,0.0,2.0,0.0,220,0.0,0.0,0
+716,H1,2007,2007,2007,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,1301.0,0.0,0.0,0.0,1301.0,0.0,28866828,0.0,0.0,0
+715,H1,2007,2007,2007,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,3000000.0,0.0,0.0,0.0,3000000.0,0.0,36000,0.0,0.0,0
+714,H1,2007,2007,2007,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,232125.0,0.0,0.0,0.0,232125.0,0.0,92846,0.0,0.0,0
+713,H1,2007,2007,2007,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,18028664.0,0.0,0.0,0.0,18028664.0,0.0,1886069,0.0,0.0,0
+712,H1,2007,2007,2007,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,21336.0,0.0,0.0,0.0,21336.0,0.0,2907,0.0,0.0,0
+711,H1,2007,2007,2007,4,0,1,Import,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,25000.0,0.0,0.0,0.0,25000.0,0.0,6600,0.0,0.0,0
+710,H1,2007,2007,2007,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,17493189.0,0.0,0.0,0.0,17493189.0,0.0,1724204,0.0,0.0,0
+709,H1,2007,2007,2007,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,181.0,0.0,0.0,0.0,181.0,0.0,87,0.0,0.0,0
+726,H1,2007,2007,2007,4,0,1,Import,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,3.0,0.0,0.0,0.0,5410.0,0.0,94604,0.0,0.0,2
+707,H1,2007,2007,2007,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,2546297.0,0.0,0.0,0.0,2546297.0,0.0,3842174,0.0,0.0,0
+706,H1,2007,2007,2007,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,9936967.0,0.0,0.0,0.0,9936967.0,0.0,19280452,0.0,0.0,0
+705,H1,2007,2007,2007,4,0,1,Import,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,5394350.0,0.0,0.0,0.0,5394350.0,0.0,6943187,0.0,0.0,0
+704,H1,2007,2007,2007,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,162032186.0,0.0,0.0,0.0,162032186.0,0.0,333037666,0.0,0.0,0
+703,H1,2007,2007,2007,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,120590.0,0.0,0.0,0.0,120590.0,0.0,426354,0.0,0.0,0
+702,H1,2007,2007,2007,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,4708162.0,0.0,0.0,0.0,4708162.0,0.0,9796233,0.0,0.0,0
+701,H1,2007,2007,2007,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,2297487.0,0.0,0.0,0.0,2297487.0,0.0,4729549,0.0,0.0,0
+700,H1,2007,2007,2007,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,221726.0,0.0,0.0,0.0,221726.0,0.0,305835,0.0,0.0,0
+699,H1,2007,2007,2007,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,171664891.0,0.0,0.0,0.0,171664891.0,0.0,113881261,0.0,0.0,0
+698,H1,2007,2007,2007,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,624496682.0,0.0,0.0,0.0,624496682.0,0.0,406364433,0.0,0.0,0
+697,H1,2007,2007,2007,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,98445.0,0.0,0.0,0.0,98445.0,0.0,215451,0.0,0.0,0
+696,H1,2007,2007,2007,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,46570923.0,0.0,0.0,0.0,46570923.0,0.0,37709618,0.0,0.0,0
+695,H1,2007,2007,2007,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,382666726.0,0.0,0.0,0.0,382666726.0,0.0,252966651,0.0,0.0,0
+729,H1,2007,2007,2007,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,4316.0,0.0,0.0,0.0,8164199.0,0.0,40878432,0.0,0.0,2
+724,H1,2007,2007,2007,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,94.0,0.0,0.0,0.0,230613.0,0.0,1883809,0.0,0.0,2
+725,H1,2007,2007,2007,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,120.0,0.0,0.0,0.0,206006.0,0.0,1505733,0.0,0.0,2
+731,H1,2008,2008,2008,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,745492885.0,0.0,0.0,0.0,745492885.0,0.0,599740086,0.0,0.0,0
+752,H1,2008,2008,2008,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,12424532.0,0.0,0.0,0.0,12424532.0,0.0,1376672,0.0,0.0,0
+733,H1,2008,2008,2008,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,6923990.0,0.0,0.0,0.0,6923990.0,0.0,3702909,0.0,0.0,0
+751,H1,2008,2008,2008,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,32274.0,0.0,0.0,0.0,32274.0,0.0,143181,0.0,0.0,0
+750,H1,2008,2008,2008,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,2434.0,0.0,0.0,0.0,2434.0,0.0,1461,0.0,0.0,0
+749,H1,2008,2008,2008,4,0,1,Import,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,96250.0,0.0,0.0,0.0,96250.0,0.0,27819,0.0,0.0,0
+748,H1,2008,2008,2008,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,17283524.0,0.0,0.0,0.0,17283524.0,0.0,1907732,0.0,0.0,0
+747,H1,2008,2008,2008,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,2.0,0.0,0.0,0.0,2.0,0.0,3641,0.0,0.0,0
+746,H1,2008,2008,2008,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,2000286.0,0.0,0.0,0.0,2000286.0,0.0,4348860,0.0,0.0,0
+745,H1,2008,2008,2008,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,5327388.0,0.0,0.0,0.0,5327388.0,0.0,14672435,0.0,0.0,0
+744,H1,2008,2008,2008,4,0,1,Import,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,5448542.0,0.0,0.0,0.0,5448542.0,0.0,9071345,0.0,0.0,0
+730,H1,2008,2008,2008,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,115034.0,0.0,0.0,0.0,115034.0,0.0,119170,0.0,0.0,0
+743,H1,2008,2008,2008,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,152062216.0,0.0,0.0,0.0,152062216.0,0.0,379815636,0.0,0.0,0
+742,H1,2008,2008,2008,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,877487.0,0.0,0.0,0.0,877487.0,0.0,2847521,0.0,0.0,0
+741,H1,2008,2008,2008,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,6894239.0,0.0,0.0,0.0,6894239.0,0.0,18299730,0.0,0.0,0
+740,H1,2008,2008,2008,4,0,1,Import,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,6.0,0.0,0.0,0.0,6.0,0.0,6476,0.0,0.0,0
+739,H1,2008,2008,2008,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,4889236.0,0.0,0.0,0.0,4889236.0,0.0,13226846,0.0,0.0,0
+738,H1,2008,2008,2008,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,304140.0,0.0,0.0,0.0,304140.0,0.0,601977,0.0,0.0,0
+737,H1,2008,2008,2008,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,19193000.0,0.0,0.0,0.0,19193000.0,0.0,19336795,0.0,0.0,0
+736,H1,2008,2008,2008,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,900.0,0.0,0.0,0.0,900.0,0.0,2400,0.0,0.0,0
+735,H1,2008,2008,2008,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,188680936.0,0.0,0.0,0.0,188680936.0,0.0,178531889,0.0,0.0,0
+734,H1,2008,2008,2008,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,600875079.0,0.0,0.0,0.0,600875079.0,0.0,488511030,0.0,0.0,0
+753,H1,2008,2008,2008,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,1432.0,0.0,0.0,0.0,1432.0,0.0,4464666,0.0,0.0,0
+754,H1,2008,2008,2008,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,1149.0,0.0,0.0,0.0,1149.0,0.0,31833297,0.0,0.0,0
+732,H1,2008,2008,2008,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,28926597.0,0.0,0.0,0.0,28926597.0,0.0,33306828,0.0,0.0,0
+756,H1,2008,2008,2008,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,115914.0,0.0,0.0,0.0,115914.0,0.0,20230260,0.0,0.0,0
+762,H1,2008,2008,2008,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,1,No Quantity,0.0,0.0,0.0,0.0,15971440.0,0.0,103469365,0.0,0.0,0
+761,H1,2008,2008,2008,4,0,1,Import,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,1,No Quantity,0.0,0.0,0.0,0.0,1382193.0,0.0,11686166,0.0,0.0,0
+760,H1,2008,2008,2008,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,1,No Quantity,0.0,0.0,0.0,0.0,21078404.0,0.0,161162400,0.0,0.0,0
+759,H1,2008,2008,2008,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,1,No Quantity,0.0,0.0,0.0,0.0,3284241.0,0.0,21359792,0.0,0.0,0
+763,H1,2008,2008,2008,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,1,No Quantity,0.0,0.0,0.0,0.0,4074563.0,0.0,39031278,0.0,0.0,0
+764,H1,2008,2008,2008,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,1,No Quantity,0.0,0.0,0.0,0.0,575066.0,0.0,5844809,0.0,0.0,0
+755,H1,2008,2008,2008,4,0,1,Import,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,4644.0,0.0,0.0,0.0,4644.0,0.0,2919322,0.0,0.0,0
+766,H1,2008,2008,2008,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,1,No Quantity,0.0,0.0,0.0,0.0,5237063.0,0.0,30033484,0.0,0.0,0
+767,H1,2008,2008,2008,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,1,No Quantity,0.0,0.0,0.0,0.0,67421178.0,0.0,668579531,0.0,0.0,0
+768,H1,2008,2008,2008,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,1,No Quantity,0.0,0.0,0.0,0.0,18007222.0,0.0,107566718,0.0,0.0,0
+758,H1,2008,2008,2008,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,292.0,0.0,0.0,0.0,292.0,0.0,6924949,0.0,0.0,0
+757,H1,2008,2008,2008,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,12371.0,0.0,0.0,0.0,12371.0,0.0,347713373,0.0,0.0,0
+765,H1,2008,2008,2008,4,0,1,Import,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,1,No Quantity,0.0,0.0,0.0,0.0,2098.0,0.0,10512,0.0,0.0,0
+770,H1,2009,2009,2009,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,1195716890.0,0.0,0.0,0.0,1195716890.0,0.0,719442802,0.0,0.0,0
+777,H1,2009,2009,2009,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,2639562.0,0.0,0.0,0.0,2639562.0,0.0,3494467,0.0,0.0,0
+776,H1,2009,2009,2009,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,10866352.0,0.0,0.0,0.0,10866352.0,0.0,4163136,0.0,0.0,0
+775,H1,2009,2009,2009,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,2009529.0,0.0,0.0,0.0,2009529.0,0.0,1333300,0.0,0.0,0
+774,H1,2009,2009,2009,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,212987883.0,0.0,0.0,0.0,212987883.0,0.0,129306399,0.0,0.0,0
+804,H1,2009,2009,2009,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,1,No Quantity,0.0,0.0,0.0,0.0,328125.0,0.0,3261657,0.0,0.0,0
+772,H1,2009,2009,2009,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,26137.0,0.0,0.0,0.0,26137.0,0.0,43584,0.0,0.0,0
+803,H1,2009,2009,2009,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,1,No Quantity,0.0,0.0,0.0,0.0,192736.0,0.0,2195280,0.0,0.0,0
+778,H1,2009,2009,2009,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,33450645.0,0.0,0.0,0.0,33450645.0,0.0,51749829,0.0,0.0,0
+805,H1,2009,2009,2009,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,1,No Quantity,0.0,0.0,0.0,0.0,496983.0,0.0,4898916,0.0,0.0,0
+806,H1,2009,2009,2009,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,1,No Quantity,0.0,0.0,0.0,0.0,41952518.0,0.0,396020954,0.0,0.0,0
+807,H1,2009,2009,2009,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,1,No Quantity,0.0,0.0,0.0,0.0,7290564.0,0.0,59360474,0.0,0.0,0
+773,H1,2009,2009,2009,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,659939938.0,0.0,0.0,0.0,659939938.0,0.0,392601751,0.0,0.0,0
+779,H1,2009,2009,2009,4,0,1,Import,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,2.0,0.0,0.0,0.0,2.0,0.0,68,0.0,0.0,0
+783,H1,2009,2009,2009,4,0,1,Import,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,5709250.0,0.0,0.0,0.0,5709250.0,0.0,7541332,0.0,0.0,0
+781,H1,2009,2009,2009,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,765415.0,0.0,0.0,0.0,765415.0,0.0,1565573,0.0,0.0,0
+797,H1,2009,2009,2009,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,6.0,0.0,0.0,0.0,6.0,0.0,15153,0.0,0.0,0
+796,H1,2009,2009,2009,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,12112.0,0.0,0.0,0.0,12112.0,0.0,358880533,0.0,0.0,0
+795,H1,2009,2009,2009,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,71856.0,0.0,0.0,0.0,71856.0,0.0,14976830,0.0,0.0,0
+794,H1,2009,2009,2009,4,0,1,Import,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,204.0,0.0,0.0,0.0,204.0,0.0,813395,0.0,0.0,0
+793,H1,2009,2009,2009,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,814.0,0.0,0.0,0.0,814.0,0.0,23831714,0.0,0.0,0
+792,H1,2009,2009,2009,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,2963.0,0.0,0.0,0.0,2963.0,0.0,3624637,0.0,0.0,0
+791,H1,2009,2009,2009,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,175198.0,0.0,0.0,0.0,175198.0,0.0,26345,0.0,0.0,0
+790,H1,2009,2009,2009,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,9000.0,0.0,0.0,0.0,9000.0,0.0,2340,0.0,0.0,0
+789,H1,2009,2009,2009,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,9909171.0,0.0,0.0,0.0,9909171.0,0.0,1596973,0.0,0.0,0
+787,H1,2009,2009,2009,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,17465380.0,0.0,0.0,0.0,17465380.0,0.0,2064992,0.0,0.0,0
+798,H1,2009,2009,2009,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,1.0,0.0,0.0,0.0,1.0,0.0,12479,0.0,0.0,0
+799,H1,2009,2009,2009,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,1,No Quantity,0.0,0.0,0.0,0.0,3146789.0,0.0,17164733,0.0,0.0,0
+800,H1,2009,2009,2009,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,1,No Quantity,0.0,0.0,0.0,0.0,10028012.0,0.0,70454904,0.0,0.0,0
+801,H1,2009,2009,2009,4,0,1,Import,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,1,No Quantity,0.0,0.0,0.0,0.0,1145789.0,0.0,11469011,0.0,0.0,0
+802,H1,2009,2009,2009,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,1,No Quantity,0.0,0.0,0.0,0.0,14277166.0,0.0,98162822,0.0,0.0,0
+786,H1,2009,2009,2009,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,547.0,0.0,0.0,0.0,547.0,0.0,253,0.0,0.0,0
+785,H1,2009,2009,2009,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,3208850.0,0.0,0.0,0.0,3208850.0,0.0,4957680,0.0,0.0,0
+784,H1,2009,2009,2009,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,19676234.0,0.0,0.0,0.0,19676234.0,0.0,27930357,0.0,0.0,0
+782,H1,2009,2009,2009,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,100742270.0,0.0,0.0,0.0,100742270.0,0.0,166482975,0.0,0.0,0
+780,H1,2009,2009,2009,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,5898020.0,0.0,0.0,0.0,5898020.0,0.0,10402380,0.0,0.0,0
+788,H1,2009,2009,2009,4,0,1,Import,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,68750.0,0.0,0.0,0.0,68750.0,0.0,29258,0.0,0.0,0
+769,H1,2009,2009,2009,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,10546236.0,0.0,0.0,0.0,10546236.0,0.0,7152073,0.0,0.0,0
+771,H1,2009,2009,2009,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,24873778.0,0.0,0.0,0.0,24873778.0,0.0,24001041,0.0,0.0,0
+652,H3,2010,2010,2010,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,7393.0,0.0,0.0,0.0,10096811.0,0.0,83639422,0.0,0.0,2
+638,H3,2010,2010,2010,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,16351362.0,0.0,0.0,0.0,16351362.0,0.0,2039628,0.0,0.0,0
+637,H3,2010,2010,2010,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,99837.0,0.0,0.0,0.0,99837.0,0.0,316960,0.0,0.0,0
+636,H3,2010,2010,2010,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,4784147.0,0.0,0.0,0.0,4784147.0,0.0,10569623,0.0,0.0,0
+635,H3,2010,2010,2010,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,4425958.0,0.0,0.0,0.0,4425958.0,0.0,13032479,0.0,0.0,0
+634,H3,2010,2010,2010,4,0,1,Import,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,7419880.0,0.0,0.0,0.0,7419880.0,0.0,15799934,0.0,0.0,0
+633,H3,2010,2010,2010,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,118254497.0,0.0,0.0,0.0,118254497.0,0.0,361038236,0.0,0.0,0
+632,H3,2010,2010,2010,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,2314599.0,0.0,0.0,0.0,2314599.0,0.0,6023099,0.0,0.0,0
+631,H3,2010,2010,2010,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,6084612.0,0.0,0.0,0.0,6084612.0,0.0,19042186,0.0,0.0,0
+630,H3,2010,2010,2010,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,8525677.0,0.0,0.0,0.0,8525677.0,0.0,25259978,0.0,0.0,0
+629,H3,2010,2010,2010,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,1109302.0,0.0,0.0,0.0,1109302.0,0.0,2151745,0.0,0.0,0
+628,H3,2010,2010,2010,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,25006.0,0.0,0.0,0.0,25006.0,0.0,27665,0.0,0.0,0
+627,H3,2010,2010,2010,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,4000205.0,0.0,0.0,0.0,4000205.0,0.0,3360560,0.0,0.0,0
+626,H3,2010,2010,2010,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,194027129.0,0.0,0.0,0.0,194027129.0,0.0,160476586,0.0,0.0,0
+625,H3,2010,2010,2010,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,696813126.0,0.0,0.0,0.0,696813126.0,0.0,565576780,0.0,0.0,0
+624,H3,2010,2010,2010,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,40400.0,0.0,0.0,0.0,40400.0,0.0,61242,0.0,0.0,0
+623,H3,2010,2010,2010,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,23121741.0,0.0,0.0,0.0,23121741.0,0.0,23511225,0.0,0.0,0
+639,H3,2010,2010,2010,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,2.0,0.0,0.0,0.0,2.0,0.0,10,0.0,0.0,0
+640,H3,2010,2010,2010,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,154.0,0.0,0.0,0.0,154.0,0.0,4974,0.0,0.0,0
+641,H3,2010,2010,2010,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,8787254.0,0.0,0.0,0.0,8787254.0,0.0,920100,0.0,0.0,0
+642,H3,2010,2010,2010,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,228.0,0.0,0.0,0.0,228.0,0.0,5562,0.0,0.0,0
+659,H3,2010,2010,2010,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,13624.0,0.0,0.0,0.0,21333806.0,0.0,181003586,0.0,0.0,2
+658,H3,2010,2010,2010,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,61968.0,0.0,0.0,0.0,83434069.0,0.0,880652105,0.0,0.0,2
+657,H3,2010,2010,2010,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,859.0,0.0,0.0,0.0,1454292.0,0.0,13072306,0.0,0.0,2
+656,H3,2010,2010,2010,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,60.0,0.0,0.0,0.0,87843.0,0.0,867090,0.0,0.0,2
+655,H3,2010,2010,2010,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,144.0,0.0,0.0,0.0,208354.0,0.0,2912428,0.0,0.0,2
+654,H3,2010,2010,2010,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,9370.0,0.0,0.0,0.0,19015373.0,0.0,132717490,0.0,0.0,2
+653,H3,2010,2010,2010,4,0,1,Import,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,460.0,0.0,0.0,0.0,1018617.0,0.0,8298045,0.0,0.0,2
+622,H3,2010,2010,2010,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,1489742964.0,0.0,0.0,0.0,1489742964.0,0.0,1210756587,0.0,0.0,0
+651,H3,2010,2010,2010,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,1568.0,0.0,0.0,0.0,3930647.0,0.0,22401209,0.0,0.0,2
+649,H3,2010,2010,2010,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,24.0,0.0,0.0,0.0,24.0,0.0,3835,0.0,0.0,0
+648,H3,2010,2010,2010,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,7582.0,0.0,0.0,0.0,7582.0,0.0,223628332,0.0,0.0,0
+647,H3,2010,2010,2010,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,304037.0,0.0,0.0,0.0,304037.0,0.0,35460964,0.0,0.0,0
+646,H3,2010,2010,2010,4,0,1,Import,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,241.0,0.0,0.0,0.0,241.0,0.0,1029022,0.0,0.0,0
+645,H3,2010,2010,2010,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,676.0,0.0,0.0,0.0,676.0,0.0,22526054,0.0,0.0,0
+644,H3,2010,2010,2010,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,705.0,0.0,0.0,0.0,705.0,0.0,4361851,0.0,0.0,0
+643,H3,2010,2010,2010,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,108872.0,0.0,0.0,0.0,108872.0,0.0,54845,0.0,0.0,0
+650,H3,2010,2010,2010,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,4.0,0.0,0.0,0.0,4.0,0.0,31721,0.0,0.0,0
+621,H3,2010,2010,2010,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,42650997.0,0.0,0.0,0.0,42650997.0,0.0,34348073,0.0,0.0,0
+614,H3,2011,2011,2011,4,0,1,Import,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,1,No Quantity,0.0,0.0,0.0,0.0,930584.0,0.0,7666333,0.0,0.0,0
+619,H3,2011,2011,2011,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,1,No Quantity,0.0,0.0,0.0,0.0,86202882.0,0.0,979224770,0.0,0.0,0
+598,H3,2011,2011,2011,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,2137000.0,0.0,0.0,0.0,2137000.0,0.0,6856216,0.0,0.0,0
+597,H3,2011,2011,2011,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,2066708.0,0.0,0.0,0.0,2066708.0,0.0,8829099,0.0,0.0,0
+596,H3,2011,2011,2011,4,0,1,Import,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,7758521.0,0.0,0.0,0.0,7758521.0,0.0,23381250,0.0,0.0,0
+595,H3,2011,2011,2011,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,105404216.0,0.0,0.0,0.0,105404216.0,0.0,476756091,0.0,0.0,0
+594,H3,2011,2011,2011,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,4105591.0,0.0,0.0,0.0,4105591.0,0.0,19880520,0.0,0.0,0
+593,H3,2011,2011,2011,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,5604480.0,0.0,0.0,0.0,5604480.0,0.0,25301178,0.0,0.0,0
+592,H3,2011,2011,2011,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,4343933.0,0.0,0.0,0.0,4343933.0,0.0,17719102,0.0,0.0,0
+590,H3,2011,2011,2011,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,38031881.0,0.0,0.0,0.0,38031881.0,0.0,44208928,0.0,0.0,0
+589,H3,2011,2011,2011,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,153593644.0,0.0,0.0,0.0,153593644.0,0.0,160808443,0.0,0.0,0
+588,H3,2011,2011,2011,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,737232594.0,0.0,0.0,0.0,737232594.0,0.0,782521495,0.0,0.0,0
+587,H3,2011,2011,2011,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,39933.0,0.0,0.0,0.0,39933.0,0.0,77041,0.0,0.0,0
+586,H3,2011,2011,2011,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,39084383.0,0.0,0.0,0.0,39084383.0,0.0,50886894,0.0,0.0,0
+585,H3,2011,2011,2011,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,1532601297.0,0.0,0.0,0.0,1532601297.0,0.0,1602953981,0.0,0.0,0
+584,H3,2011,2011,2011,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,23256222.0,0.0,0.0,0.0,23256222.0,0.0,24839433,0.0,0.0,0
+620,H3,2011,2011,2011,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,1,No Quantity,0.0,0.0,0.0,0.0,25518086.0,0.0,216100076,0.0,0.0,0
+599,H3,2011,2011,2011,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,220404.0,0.0,0.0,0.0,220404.0,0.0,1003520,0.0,0.0,0
+600,H3,2011,2011,2011,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,10512415.0,0.0,0.0,0.0,10512415.0,0.0,1914724,0.0,0.0,0
+591,H3,2011,2011,2011,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,379041.0,0.0,0.0,0.0,379041.0,0.0,1146137,0.0,0.0,0
+602,H3,2011,2011,2011,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,24.0,0.0,0.0,0.0,24.0,0.0,507,0.0,0.0,0
+601,H3,2011,2011,2011,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,2331360.0,0.0,0.0,0.0,2331360.0,0.0,322142,0.0,0.0,0
+618,H3,2011,2011,2011,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,1,No Quantity,0.0,0.0,0.0,0.0,2584616.0,0.0,19041860,0.0,0.0,0
+617,H3,2011,2011,2011,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,1,No Quantity,0.0,0.0,0.0,0.0,73232.0,0.0,822713,0.0,0.0,0
+616,H3,2011,2011,2011,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,1,No Quantity,0.0,0.0,0.0,0.0,230180.0,0.0,3905499,0.0,0.0,0
+615,H3,2011,2011,2011,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,1,No Quantity,0.0,0.0,0.0,0.0,22261181.0,0.0,190860569,0.0,0.0,0
+612,H3,2011,2011,2011,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,1,No Quantity,0.0,0.0,0.0,0.0,4586798.0,0.0,34992058,0.0,0.0,0
+611,H3,2011,2011,2011,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,19.0,0.0,0.0,0.0,19.0,0.0,906436,0.0,0.0,0
+613,H3,2011,2011,2011,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,1,No Quantity,0.0,0.0,0.0,0.0,6897978.0,0.0,55901513,0.0,0.0,0
+604,H3,2011,2011,2011,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,1037240.0,0.0,0.0,0.0,1037240.0,0.0,543353,0.0,0.0,0
+609,H3,2011,2011,2011,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,7830.0,0.0,0.0,0.0,7830.0,0.0,19963918,0.0,0.0,0
+608,H3,2011,2011,2011,4,0,1,Import,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,239.0,0.0,0.0,0.0,239.0,0.0,429583,0.0,0.0,0
+607,H3,2011,2011,2011,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,22.0,0.0,0.0,0.0,22.0,0.0,939725,0.0,0.0,0
+606,H3,2011,2011,2011,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,144.0,0.0,0.0,0.0,144.0,0.0,2233332,0.0,0.0,0
+605,H3,2011,2011,2011,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,647053.0,0.0,0.0,0.0,647053.0,0.0,263827,0.0,0.0,0
+610,H3,2011,2011,2011,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,16456.0,0.0,0.0,0.0,16456.0,0.0,723519496,0.0,0.0,0
+603,H3,2011,2011,2011,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,7913205.0,0.0,0.0,0.0,7913205.0,0.0,1066967,0.0,0.0,0
+553,H4,2012,2012,2012,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,19395.0,0.0,0.0,0.0,32770175.0,0.0,335237810,0.0,0.0,2
+472,H4,2012,2012,2012,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,7336993.0,0.0,0.0,0.0,7336993.0,0.0,16329030,0.0,0.0,0
+473,H4,2012,2012,2012,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,3852125.0,0.0,0.0,0.0,3852125.0,0.0,10017384,0.0,0.0,0
+477,H4,2012,2012,2012,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,64513815.0,0.0,0.0,0.0,64513815.0,0.0,206239449,0.0,0.0,0
+475,H4,2012,2012,2012,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,6309921.0,0.0,0.0,0.0,6309921.0,0.0,20587312,0.0,0.0,0
+476,H4,2012,2012,2012,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,2906649.0,0.0,0.0,0.0,2906649.0,0.0,10200990,0.0,0.0,0
+552,H4,2012,2012,2012,4,0,1,Import,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,473.0,0.0,0.0,0.0,1025329.0,0.0,9070892,0.0,0.0,2
+474,H4,2012,2012,2012,4,0,1,Import,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,102300.0,0.0,0.0,0.0,102300.0,0.0,328406,0.0,0.0,0
+551,H4,2012,2012,2012,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,14344.0,0.0,0.0,0.0,15531254.0,0.0,145983095,0.0,0.0,2
+534,H4,2012,2012,2012,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,5104.0,0.0,0.0,0.0,5104.0,0.0,20750620,0.0,0.0,0
+449,H4,2012,2012,2012,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,952089319.0,0.0,0.0,0.0,952089319.0,0.0,905281104,0.0,0.0,0
+450,H4,2012,2012,2012,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,130701716.0,0.0,0.0,0.0,130701716.0,0.0,130423431,0.0,0.0,0
+451,H4,2012,2012,2012,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,22799071.0,0.0,0.0,0.0,22799071.0,0.0,21602121,0.0,0.0,0
+537,H4,2012,2012,2012,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,1.0,0.0,0.0,0.0,1.0,0.0,55908,0.0,0.0,0
+536,H4,2012,2012,2012,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,12.0,0.0,0.0,0.0,12.0,0.0,112529,0.0,0.0,0
+535,H4,2012,2012,2012,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,6612.0,0.0,0.0,0.0,6612.0,0.0,351860093,0.0,0.0,0
+533,H4,2012,2012,2012,4,0,1,Import,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,245.0,0.0,0.0,0.0,245.0,0.0,19938,0.0,0.0,0
+532,H4,2012,2012,2012,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,3.0,0.0,0.0,0.0,3.0,0.0,38,0.0,0.0,0
+478,H4,2012,2012,2012,4,0,1,Import,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,7939580.0,0.0,0.0,0.0,7939580.0,0.0,18900668,0.0,0.0,0
+550,H4,2012,2012,2012,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,5339.0,0.0,0.0,0.0,8587853.0,0.0,65276316,0.0,0.0,2
+479,H4,2012,2012,2012,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,459560.0,0.0,0.0,0.0,459560.0,0.0,1495434,0.0,0.0,0
+515,H4,2012,2012,2012,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,151855.0,0.0,0.0,0.0,151855.0,0.0,53689,0.0,0.0,0
+448,H4,2012,2012,2012,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,131953.0,0.0,0.0,0.0,131953.0,0.0,201785,0.0,0.0,0
+510,H4,2012,2012,2012,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,2042.0,0.0,0.0,0.0,2042.0,0.0,12666,0.0,0.0,0
+511,H4,2012,2012,2012,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,15608615.0,0.0,0.0,0.0,15608615.0,0.0,3504101,0.0,0.0,0
+512,H4,2012,2012,2012,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,54000.0,0.0,0.0,0.0,54000.0,0.0,10800,0.0,0.0,0
+513,H4,2012,2012,2012,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,7710217.0,0.0,0.0,0.0,7710217.0,0.0,1206012,0.0,0.0,0
+514,H4,2012,2012,2012,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,1192020.0,0.0,0.0,0.0,1192020.0,0.0,595380,0.0,0.0,0
+558,H4,2012,2012,2012,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,38664.0,0.0,0.0,0.0,46863224.0,0.0,475254166,0.0,0.0,2
+480,H4,2012,2012,2012,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,4699095.0,0.0,0.0,0.0,4699095.0,0.0,11477949,0.0,0.0,0
+556,H4,2012,2012,2012,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,310.0,0.0,0.0,0.0,707750.0,0.0,5106365,0.0,0.0,2
+557,H4,2012,2012,2012,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,105237.0,0.0,0.0,0.0,129362869.0,0.0,1507521175,0.0,0.0,2
+554,H4,2012,2012,2012,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,571.0,0.0,0.0,0.0,804748.0,0.0,12685191,0.0,0.0,2
+531,H4,2012,2012,2012,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,30.0,0.0,0.0,0.0,30.0,0.0,396879,0.0,0.0,0
+445,H4,2012,2012,2012,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,64450.0,0.0,0.0,0.0,64450.0,0.0,105438,0.0,0.0,0
+446,H4,2012,2012,2012,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,1412261485.0,0.0,0.0,0.0,1412261485.0,0.0,1320836044,0.0,0.0,0
+447,H4,2012,2012,2012,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,46316531.0,0.0,0.0,0.0,46316531.0,0.0,53889930,0.0,0.0,0
+555,H4,2012,2012,2012,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,167.0,0.0,0.0,0.0,193903.0,0.0,2930193,0.0,0.0,2
+517,H4,2013,2013,2013,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,22466.0,0.0,0.0,0.0,22466.0,0.0,17364,0.0,0.0,0
+518,H4,2013,2013,2013,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,12694388.0,0.0,0.0,0.0,12694388.0,0.0,1893725,0.0,0.0,0
+516,H4,2013,2013,2013,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,9751365.0,0.0,0.0,0.0,9751365.0,0.0,1346677,0.0,0.0,0
+452,H4,2013,2013,2013,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,42402436.0,0.0,0.0,0.0,42402436.0,0.0,31527745,0.0,0.0,0
+453,H4,2013,2013,2013,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,514341806.0,0.0,0.0,0.0,514341806.0,0.0,372765278,0.0,0.0,0
+519,H4,2013,2013,2013,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,4800.0,0.0,0.0,0.0,4800.0,0.0,3000,0.0,0.0,0
+454,H4,2013,2013,2013,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,58051235.0,0.0,0.0,0.0,58051235.0,0.0,50178692,0.0,0.0,0
+484,H4,2013,2013,2013,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,302585.0,0.0,0.0,0.0,302585.0,0.0,951025,0.0,0.0,0
+456,H4,2013,2013,2013,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,843986979.0,0.0,0.0,0.0,843986979.0,0.0,650146583,0.0,0.0,0
+562,H4,2013,2013,2013,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,668.0,0.0,0.0,0.0,1301668.0,0.0,19474457,0.0,0.0,2
+563,H4,2013,2013,2013,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,136.0,0.0,0.0,0.0,163991.0,0.0,1852230,0.0,0.0,2
+564,H4,2013,2013,2013,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,545.0,0.0,0.0,0.0,1297870.0,0.0,8691620,0.0,0.0,2
+565,H4,2013,2013,2013,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,79675.0,0.0,0.0,0.0,100010110.0,0.0,1112968880,0.0,0.0,2
+561,H4,2013,2013,2013,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,20545.0,0.0,0.0,0.0,33293110.0,0.0,349691993,0.0,0.0,2
+560,H4,2013,2013,2013,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,8083.0,0.0,0.0,0.0,9169484.0,0.0,83136994,0.0,0.0,2
+559,H4,2013,2013,2013,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,5816.0,0.0,0.0,0.0,9699799.0,0.0,71269213,0.0,0.0,2
+489,H4,2013,2013,2013,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,20240.0,0.0,0.0,0.0,20240.0,0.0,58348,0.0,0.0,0
+488,H4,2013,2013,2013,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,4060247.0,0.0,0.0,0.0,4060247.0,0.0,7772288,0.0,0.0,0
+455,H4,2013,2013,2013,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,112653.0,0.0,0.0,0.0,112653.0,0.0,153087,0.0,0.0,0
+487,H4,2013,2013,2013,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,789396.0,0.0,0.0,0.0,789396.0,0.0,2657860,0.0,0.0,0
+485,H4,2013,2013,2013,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,22850621.0,0.0,0.0,0.0,22850621.0,0.0,59736201,0.0,0.0,0
+483,H4,2013,2013,2013,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,5178320.0,0.0,0.0,0.0,5178320.0,0.0,13130872,0.0,0.0,0
+482,H4,2013,2013,2013,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,7250959.0,0.0,0.0,0.0,7250959.0,0.0,16966666,0.0,0.0,0
+481,H4,2013,2013,2013,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,9226971.0,0.0,0.0,0.0,9226971.0,0.0,17858960,0.0,0.0,0
+541,H4,2013,2013,2013,4,0,1,Import,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,5.0,0.0,0.0,0.0,5.0,0.0,30540,0.0,0.0,0
+540,H4,2013,2013,2013,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,12286.0,0.0,0.0,0.0,12286.0,0.0,564548991,0.0,0.0,0
+539,H4,2013,2013,2013,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,8366.0,0.0,0.0,0.0,8366.0,0.0,15442517,0.0,0.0,0
+538,H4,2013,2013,2013,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,27.0,0.0,0.0,0.0,27.0,0.0,106212,0.0,0.0,0
+457,H4,2013,2013,2013,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,94385250.0,0.0,0.0,0.0,94385250.0,0.0,74034236,0.0,0.0,0
+486,H4,2013,2013,2013,4,0,1,Import,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,6626076.0,0.0,0.0,0.0,6626076.0,0.0,12933670,0.0,0.0,0
+566,H4,2013,2013,2013,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,30702.0,0.0,0.0,0.0,38465815.0,0.0,391344489,0.0,0.0,2
+492,H4,2014,2014,2014,4,0,1,Import,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,1.0,0.0,0.0,0.0,1.0,0.0,36,0.0,0.0,0
+545,H4,2014,2014,2014,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,5.0,0.0,0.0,0.0,5.0,0.0,126,0.0,0.0,0
+493,H4,2014,2014,2014,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,8628480.0,0.0,0.0,0.0,8628480.0,0.0,15481969,0.0,0.0,0
+491,H4,2014,2014,2014,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,5430715.0,0.0,0.0,0.0,5430715.0,0.0,9620324,0.0,0.0,0
+490,H4,2014,2014,2014,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,12529190.0,0.0,0.0,0.0,12529190.0,0.0,19004266,0.0,0.0,0
+522,H4,2014,2014,2014,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,293072.0,0.0,0.0,0.0,293072.0,0.0,97855,0.0,0.0,0
+521,H4,2014,2014,2014,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,15043958.0,0.0,0.0,0.0,15043958.0,0.0,2414730,0.0,0.0,0
+520,H4,2014,2014,2014,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,11954012.0,0.0,0.0,0.0,11954012.0,0.0,1121078,0.0,0.0,0
+542,H4,2014,2014,2014,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,1.0,0.0,0.0,0.0,1.0,0.0,6,0.0,0.0,0
+543,H4,2014,2014,2014,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,6145.0,0.0,0.0,0.0,6145.0,0.0,12928293,0.0,0.0,0
+544,H4,2014,2014,2014,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,17036.0,0.0,0.0,0.0,17036.0,0.0,684887450,0.0,0.0,0
+495,H4,2014,2014,2014,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,19062384.0,0.0,0.0,0.0,19062384.0,0.0,33754976,0.0,0.0,0
+496,H4,2014,2014,2014,4,0,1,Import,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,9216352.0,0.0,0.0,0.0,9216352.0,0.0,13445606,0.0,0.0,0
+497,H4,2014,2014,2014,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,1907490.0,0.0,0.0,0.0,1907490.0,0.0,4684835,0.0,0.0,0
+498,H4,2014,2014,2014,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,4023994.0,0.0,0.0,0.0,4023994.0,0.0,5933020,0.0,0.0,0
+499,H4,2014,2014,2014,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,85.0,0.0,0.0,0.0,85.0,0.0,600,0.0,0.0,0
+494,H4,2014,2014,2014,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,120342.0,0.0,0.0,0.0,120342.0,0.0,427315,0.0,0.0,0
+567,H4,2014,2014,2014,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,2180.0,0.0,0.0,0.0,3963768.0,0.0,26207076,0.0,0.0,2
+569,H4,2014,2014,2014,4,0,1,Import,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,6.0,0.0,0.0,0.0,19615.0,0.0,137703,0.0,0.0,2
+570,H4,2014,2014,2014,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,35965.0,0.0,0.0,0.0,57381830.0,0.0,558595515,0.0,0.0,2
+571,H4,2014,2014,2014,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,584.0,0.0,0.0,0.0,679572.0,0.0,11884180,0.0,0.0,2
+572,H4,2014,2014,2014,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,257.0,0.0,0.0,0.0,387133.0,0.0,3337728,0.0,0.0,2
+573,H4,2014,2014,2014,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,516.0,0.0,0.0,0.0,1408670.0,0.0,8469212,0.0,0.0,2
+574,H4,2014,2014,2014,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,48286.0,0.0,0.0,0.0,69723077.0,0.0,719972455,0.0,0.0,2
+575,H4,2014,2014,2014,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,22090.0,0.0,0.0,0.0,31343828.0,0.0,344004121,0.0,0.0,2
+464,H4,2014,2014,2014,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,17046722.0,0.0,0.0,0.0,17046722.0,0.0,13705944,0.0,0.0,0
+463,H4,2014,2014,2014,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,93943180.0,0.0,0.0,0.0,93943180.0,0.0,72966030,0.0,0.0,0
+462,H4,2014,2014,2014,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,789087226.0,0.0,0.0,0.0,789087226.0,0.0,602913506,0.0,0.0,0
+461,H4,2014,2014,2014,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,134956.0,0.0,0.0,0.0,134956.0,0.0,183237,0.0,0.0,0
+460,H4,2014,2014,2014,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,195897766.0,0.0,0.0,0.0,195897766.0,0.0,159653369,0.0,0.0,0
+459,H4,2014,2014,2014,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,566069540.0,0.0,0.0,0.0,566069540.0,0.0,403572834,0.0,0.0,0
+458,H4,2014,2014,2014,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,78254.0,0.0,0.0,0.0,78254.0,0.0,114503,0.0,0.0,0
+568,H4,2014,2014,2014,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,5609.0,0.0,0.0,0.0,6588151.0,0.0,60329932,0.0,0.0,2
+523,H4,2014,2014,2014,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,26350.0,0.0,0.0,0.0,26350.0,0.0,26705,0.0,0.0,0
+583,H4,2015,2015,2015,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,7177.0,0.0,0.0,0.0,13247246.0,0.0,122744535,0.0,0.0,2
+470,H4,2015,2015,2015,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,146902057.0,0.0,0.0,0.0,146902057.0,0.0,83688802,0.0,0.0,0
+469,H4,2015,2015,2015,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,782044969.0,0.0,0.0,0.0,782044969.0,0.0,436718560,0.0,0.0,0
+500,H4,2015,2015,2015,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,13712573.0,0.0,0.0,0.0,13712573.0,0.0,16678318,0.0,0.0,0
+468,H4,2015,2015,2015,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,29691.0,0.0,0.0,0.0,29691.0,0.0,43899,0.0,0.0,0
+467,H4,2015,2015,2015,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,158553707.0,0.0,0.0,0.0,158553707.0,0.0,104751862,0.0,0.0,0
+466,H4,2015,2015,2015,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,1200132953.0,0.0,0.0,0.0,1200132953.0,0.0,655060828,0.0,0.0,0
+465,H4,2015,2015,2015,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,27584.0,0.0,0.0,0.0,27584.0,0.0,33403,0.0,0.0,0
+471,H4,2015,2015,2015,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,62159161.0,0.0,0.0,0.0,62159161.0,0.0,39603215,0.0,0.0,0
+501,H4,2015,2015,2015,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,3629639.0,0.0,0.0,0.0,3629639.0,0.0,4800354,0.0,0.0,0
+503,H4,2015,2015,2015,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,6508880.0,0.0,0.0,0.0,6508880.0,0.0,8960836,0.0,0.0,0
+577,H4,2015,2015,2015,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,4827.0,0.0,0.0,0.0,6613276.0,0.0,54234379,0.0,0.0,2
+582,H4,2015,2015,2015,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,28660.0,0.0,0.0,0.0,46452925.0,0.0,452004293,0.0,0.0,2
+581,H4,2015,2015,2015,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,1023.0,0.0,0.0,0.0,3071151.0,0.0,17756255,0.0,0.0,2
+580,H4,2015,2015,2015,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,368.0,0.0,0.0,0.0,477897.0,0.0,4432076,0.0,0.0,2
+579,H4,2015,2015,2015,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,334.0,0.0,0.0,0.0,356361.0,0.0,7088405,0.0,0.0,2
+578,H4,2015,2015,2015,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,33664.0,0.0,0.0,0.0,54282139.0,0.0,503856656,0.0,0.0,2
+502,H4,2015,2015,2015,4,0,1,Import,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,261120.0,0.0,0.0,0.0,261120.0,0.0,368323,0.0,0.0,0
+576,H4,2015,2015,2015,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,1989.0,0.0,0.0,0.0,3630544.0,0.0,24720051,0.0,0.0,2
+549,H4,2015,2015,2015,4,0,1,Import,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,1.0,0.0,0.0,0.0,1.0,0.0,465,0.0,0.0,0
+548,H4,2015,2015,2015,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,34479.0,0.0,0.0,0.0,34479.0,0.0,1280936286,0.0,0.0,0
+547,H4,2015,2015,2015,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,18872.0,0.0,0.0,0.0,18872.0,0.0,534018123,0.0,0.0,0
+530,H4,2015,2015,2015,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,2458320.0,0.0,0.0,0.0,2458320.0,0.0,890706,0.0,0.0,0
+529,H4,2015,2015,2015,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,173.0,0.0,0.0,0.0,173.0,0.0,1971,0.0,0.0,0
+546,H4,2015,2015,2015,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,16.0,0.0,0.0,0.0,16.0,0.0,540,0.0,0.0,0
+527,H4,2015,2015,2015,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,17518299.0,0.0,0.0,0.0,17518299.0,0.0,4102488,0.0,0.0,0
+504,H4,2015,2015,2015,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,712.0,0.0,0.0,0.0,712.0,0.0,7058,0.0,0.0,0
+505,H4,2015,2015,2015,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,32233879.0,0.0,0.0,0.0,32233879.0,0.0,46147269,0.0,0.0,0
+506,H4,2015,2015,2015,4,0,1,Import,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,8420403.0,0.0,0.0,0.0,8420403.0,0.0,8742159,0.0,0.0,0
+528,H4,2015,2015,2015,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,224294.0,0.0,0.0,0.0,224294.0,0.0,70628,0.0,0.0,0
+508,H4,2015,2015,2015,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,7708130.0,0.0,0.0,0.0,7708130.0,0.0,8655173,0.0,0.0,0
+507,H4,2015,2015,2015,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,2384481.0,0.0,0.0,0.0,2384481.0,0.0,5008608,0.0,0.0,0
+524,H4,2015,2015,2015,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,17061903.0,0.0,0.0,0.0,17061903.0,0.0,1569246,0.0,0.0,0
+525,H4,2015,2015,2015,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,7500.0,0.0,0.0,0.0,7500.0,0.0,4125,0.0,0.0,0
+526,H4,2015,2015,2015,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,570.0,0.0,0.0,0.0,570.0,0.0,3834,0.0,0.0,0
+509,H4,2015,2015,2015,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,40555.0,0.0,0.0,0.0,40555.0,0.0,61340,0.0,0.0,0
+423,H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,19567311.0,0.0,0.0,0.0,19567311.0,0.0,26806999,0.0,0.0,0
+418,H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,21505954.0,0.0,0.0,0.0,21505954.0,0.0,13052920,0.0,0.0,0
+422,H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,814560.0,0.0,0.0,0.0,814560.0,0.0,1273261,0.0,0.0,0
+421,H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,7217120.0,0.0,0.0,0.0,7217120.0,0.0,9331809,0.0,0.0,0
+420,H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,3050620.0,0.0,0.0,0.0,3050620.0,0.0,3818798,0.0,0.0,0
+419,H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,13496688.0,0.0,0.0,0.0,13496688.0,0.0,15039511,0.0,0.0,0
+417,H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,193305217.0,0.0,0.0,0.0,193305217.0,0.0,122113956,0.0,0.0,0
+424,H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,7940799.0,0.0,0.0,0.0,7940799.0,0.0,7115206,0.0,0.0,0
+415,H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,31696.0,0.0,0.0,0.0,31696.0,0.0,42579,0.0,0.0,0
+414,H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,331270183.0,0.0,0.0,0.0,331270183.0,0.0,221066613,0.0,0.0,0
+413,H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,2500000.0,0.0,0.0,0.0,2500000.0,0.0,3874713,0.0,0.0,0
+412,H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,555501675.0,0.0,0.0,0.0,555501675.0,0.0,333821137,0.0,0.0,0
+411,H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,96844.0,0.0,0.0,0.0,96844.0,0.0,89218,0.0,0.0,0
+432,H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,991940.0,0.0,0.0,0.0,991940.0,0.0,385486,0.0,0.0,0
+416,H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,714498078.0,0.0,0.0,0.0,714498078.0,0.0,443499469,0.0,0.0,0
+425,H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,5429280.0,0.0,0.0,0.0,5429280.0,0.0,9804019,0.0,0.0,0
+433,H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,15.0,0.0,0.0,0.0,15.0,0.0,4216,0.0,0.0,0
+427,H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,75.0,0.0,0.0,0.0,75.0,0.0,690,0.0,0.0,0
+426,H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,6936680.0,0.0,0.0,0.0,6936680.0,0.0,7346450,0.0,0.0,0
+431,H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,1327804.0,0.0,0.0,0.0,1327804.0,0.0,489606,0.0,0.0,0
+443,H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,36265.0,0.0,0.0,0.0,60695991.0,0.0,634272001,0.0,0.0,2
+442,H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,2911.0,0.0,0.0,0.0,5598365.0,0.0,45712387,0.0,0.0,2
+441,H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,287.0,0.0,0.0,0.0,251033.0,0.0,5888546,0.0,0.0,2
+440,H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,49.0,0.0,0.0,0.0,41480.0,0.0,1062269,0.0,0.0,2
+439,H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,57866.0,0.0,0.0,0.0,107471775.0,0.0,1071192995,0.0,0.0,2
+444,H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,9671.0,0.0,0.0,0.0,18392229.0,0.0,174255035,0.0,0.0,2
+437,H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,1614.0,0.0,0.0,0.0,2822097.0,0.0,18628203,0.0,0.0,2
+436,H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,100.0,0.0,0.0,0.0,100.0,0.0,4031781,0.0,0.0,0
+435,H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,28484.0,0.0,0.0,0.0,28484.0,0.0,1133178548,0.0,0.0,0
+434,H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,10205.0,0.0,0.0,0.0,10205.0,0.0,373252891,0.0,0.0,0
+430,H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,15130792.0,0.0,0.0,0.0,15130792.0,0.0,2823740,0.0,0.0,0
+429,H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,10500.0,0.0,0.0,0.0,10500.0,0.0,14921,0.0,0.0,0
+438,H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,9774.0,0.0,0.0,0.0,12225556.0,0.0,93389616,0.0,0.0,2
+428,H4,2016,2016,2016,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,18116507.0,0.0,0.0,0.0,18116507.0,0.0,2103721,0.0,0.0,0
+328,H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,118360.0,0.0,0.0,0.0,118360.0,0.0,27750,0.0,0.0,0
+329,H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,108524.0,0.0,0.0,0.0,108524.0,0.0,33580,0.0,0.0,0
+330,H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,9655388.0,0.0,0.0,0.0,9655388.0,0.0,856439,0.0,0.0,0
+331,H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,8493600.0,0.0,0.0,0.0,8493600.0,0.0,3565890,0.0,0.0,0
+332,H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,1928.0,0.0,0.0,0.0,1928.0,0.0,7165,0.0,0.0,0
+360,H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,37372.0,0.0,0.0,0.0,37372.0,0.0,1518366043,0.0,0.0,0
+359,H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,5112.0,0.0,0.0,0.0,5112.0,0.0,197686996,0.0,0.0,6
+361,H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,101.0,0.0,0.0,0.0,101.0,0.0,4119396,0.0,0.0,0
+362,H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,515.0,0.0,0.0,0.0,515.0,0.0,21060862,0.0,0.0,0
+327,H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,20050522.0,0.0,0.0,0.0,20050522.0,0.0,2474304,0.0,0.0,0
+358,H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,0.0,0.0,0.0,0.0,0.0,0.0,718,0.0,0.0,6
+326,H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,5100.0,0.0,0.0,0.0,5100.0,0.0,13750,0.0,0.0,0
+289,H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,11940918.0,0.0,0.0,0.0,11940918.0,0.0,16266930,0.0,0.0,0
+295,H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,19288147.0,0.0,0.0,0.0,19288147.0,0.0,32124281,0.0,0.0,0
+294,H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,9270581.0,0.0,0.0,0.0,9270581.0,0.0,12039120,0.0,0.0,0
+293,H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,17340289.0,0.0,0.0,0.0,17340289.0,0.0,30001952,0.0,0.0,0
+292,H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,885479.0,0.0,0.0,0.0,885479.0,0.0,1397167,0.0,0.0,0
+291,H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,3608640.0,0.0,0.0,0.0,3608640.0,0.0,6407991,0.0,0.0,0
+290,H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,42335228.0,0.0,0.0,0.0,42335228.0,0.0,66542260,0.0,0.0,0
+378,H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,975.0,0.0,0.0,0.0,1873599.0,0.0,12984725,0.0,0.0,2
+262,H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,9097081.0,0.0,0.0,0.0,9097081.0,0.0,6008950,0.0,0.0,0
+261,H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,179954952.0,0.0,0.0,0.0,179954952.0,0.0,121318788,0.0,0.0,0
+260,H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,610389436.0,0.0,0.0,0.0,610389436.0,0.0,402607576,0.0,0.0,0
+259,H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,33390.0,0.0,0.0,0.0,33390.0,0.0,42630,0.0,0.0,0
+258,H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,447185377.0,0.0,0.0,0.0,447185377.0,0.0,311934313,0.0,0.0,0
+257,H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,759792056.0,0.0,0.0,0.0,759792056.0,0.0,503684715,0.0,0.0,0
+256,H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,66459.0,0.0,0.0,0.0,66459.0,0.0,123002,0.0,0.0,0
+296,H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,6164202.0,0.0,0.0,0.0,6164202.0,0.0,9141434,0.0,0.0,0
+379,H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,6183.0,0.0,0.0,0.0,10408083.0,0.0,83473803,0.0,0.0,2
+383,H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,11424.0,0.0,0.0,0.0,26223735.0,0.0,241473080,0.0,0.0,2
+381,H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,123.0,0.0,0.0,0.0,104057.0,0.0,2915034,0.0,0.0,2
+380,H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,50827.0,0.0,0.0,0.0,126268188.0,0.0,1202999963,0.0,0.0,2
+385,H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,8699.0,0.0,0.0,0.0,20033870.0,0.0,176918549,0.0,0.0,2
+382,H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,819.0,0.0,0.0,0.0,1256158.0,0.0,12209903,0.0,0.0,2
+384,H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,19807.0,0.0,0.0,0.0,30944065.0,0.0,338345798,0.0,0.0,2
+267,H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,424533100.0,0.0,0.0,0.0,424533100.0,0.0,240089035,0.0,0.0,0
+338,H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,10925126.0,0.0,0.0,0.0,10925126.0,0.0,2281984,0.0,0.0,0
+337,H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,15.0,0.0,0.0,0.0,15.0,0.0,277,0.0,0.0,0
+336,H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,40.0,0.0,0.0,0.0,40.0,0.0,210,0.0,0.0,0
+335,H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,95760.0,0.0,0.0,0.0,95760.0,0.0,32558,0.0,0.0,0
+334,H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,49003193.0,0.0,0.0,0.0,49003193.0,0.0,10554544,0.0,0.0,0
+333,H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,17710.0,0.0,0.0,0.0,17710.0,0.0,48595,0.0,0.0,0
+389,H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,164.0,0.0,0.0,0.0,146239.0,0.0,4007727,0.0,0.0,2
+390,H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,984.0,0.0,0.0,0.0,1509834.0,0.0,16583769,0.0,0.0,2
+391,H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,13891.0,0.0,0.0,0.0,28241816.0,0.0,273236122,0.0,0.0,2
+392,H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,12343.0,0.0,0.0,0.0,16688758.0,0.0,208486044,0.0,0.0,2
+393,H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,12477.0,0.0,0.0,0.0,26148161.0,0.0,226248442,0.0,0.0,2
+263,H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,184449.0,0.0,0.0,0.0,184449.0,0.0,246160,0.0,0.0,0
+306,H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,72.0,0.0,0.0,0.0,72.0,0.0,470,0.0,0.0,0
+266,H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,519473.0,0.0,0.0,0.0,519473.0,0.0,568014,0.0,0.0,0
+305,H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,9696210.0,0.0,0.0,0.0,9696210.0,0.0,11049844,0.0,0.0,0
+264,H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,1060594765.0,0.0,0.0,0.0,1060594765.0,0.0,572616054,0.0,0.0,0
+339,H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,7832228.0,0.0,0.0,0.0,7832228.0,0.0,3775931,0.0,0.0,0
+265,H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,477646557.0,0.0,0.0,0.0,477646557.0,0.0,296097531,0.0,0.0,0
+303,H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,13072256.0,0.0,0.0,0.0,13072256.0,0.0,17129355,0.0,0.0,0
+302,H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,1659067.0,0.0,0.0,0.0,1659067.0,0.0,3033256,0.0,0.0,0
+301,H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,72165.0,0.0,0.0,0.0,72165.0,0.0,118479,0.0,0.0,0
+300,H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,3326400.0,0.0,0.0,0.0,3326400.0,0.0,4719307,0.0,0.0,0
+299,H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,335870.0,0.0,0.0,0.0,335870.0,0.0,428853,0.0,0.0,0
+298,H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,3084281.0,0.0,0.0,0.0,3084281.0,0.0,4202011,0.0,0.0,0
+297,H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,8760212.0,0.0,0.0,0.0,8760212.0,0.0,10090245,0.0,0.0,0
+270,H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,377072.0,0.0,0.0,0.0,377072.0,0.0,251528,0.0,0.0,0
+269,H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,8.0,0.0,0.0,0.0,8.0,0.0,216,0.0,0.0,0
+268,H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,433116586.0,0.0,0.0,0.0,433116586.0,0.0,259841345,0.0,0.0,0
+304,H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,10708421.0,0.0,0.0,0.0,10708421.0,0.0,17307918,0.0,0.0,6
+388,H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,60002.0,0.0,0.0,0.0,124388290.0,0.0,1125672429,0.0,0.0,2
+340,H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,533959.0,0.0,0.0,0.0,533959.0,0.0,179636,0.0,0.0,0
+387,H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,4492.0,0.0,0.0,0.0,8104940.0,0.0,65883251,0.0,0.0,2
+386,H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,2441.0,0.0,0.0,0.0,4048316.0,0.0,47520361,0.0,0.0,2
+363,H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,41.0,0.0,0.0,0.0,41.0,0.0,128852,0.0,0.0,6
+364,H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,20538.0,0.0,0.0,0.0,20538.0,0.0,823751375,0.0,0.0,6
+365,H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,39873.0,0.0,0.0,0.0,39873.0,0.0,1631023059,0.0,0.0,0
+366,H5,2018,2018,2018,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,1982.0,0.0,0.0,0.0,1982.0,0.0,81407255,0.0,0.0,0
+341,H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,10711.0,0.0,0.0,0.0,10711.0,0.0,28449,0.0,0.0,0
+308,H5,2019,2019,2019,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,5036628.0,0.0,0.0,0.0,5036628.0,0.0,6958870,0.0,0.0,0
+307,H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,5120805.0,0.0,0.0,0.0,5120805.0,0.0,5487487,0.0,0.0,0
+367,H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,8481.0,0.0,0.0,0.0,8481.0,0.0,386506169,0.0,0.0,6
+342,H5,2019,2019,2019,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,44550076.0,0.0,0.0,0.0,44550076.0,0.0,10600417,0.0,0.0,0
+369,H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,23.0,0.0,0.0,0.0,23.0,0.0,517203,0.0,0.0,0
+396,H5,2019,2019,2019,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,66133.0,0.0,0.0,0.0,128581160.0,0.0,1137432494,0.0,0.0,2
+397,H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,162.0,0.0,0.0,0.0,136125.0,0.0,4322665,0.0,0.0,2
+398,H5,2019,2019,2019,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,869.0,0.0,0.0,0.0,1729942.0,0.0,21166817,0.0,0.0,2
+399,H5,2019,2019,2019,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,28461.0,0.0,0.0,0.0,59660985.0,0.0,528622575,0.0,0.0,2
+400,H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,14795.0,0.0,0.0,0.0,27849605.0,0.0,317886502,0.0,0.0,2
+401,H5,2019,2019,2019,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,25589.0,0.0,0.0,0.0,53574031.0,0.0,502263707,0.0,0.0,2
+278,H5,2019,2019,2019,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,584500.0,0.0,0.0,0.0,584500.0,0.0,344797,0.0,0.0,0
+277,H5,2019,2019,2019,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,340209864.0,0.0,0.0,0.0,340209864.0,0.0,183725341,0.0,0.0,0
+276,H5,2019,2019,2019,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,580281817.0,0.0,0.0,0.0,580281817.0,0.0,274662958,0.0,0.0,0
+275,H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,382283.0,0.0,0.0,0.0,382283.0,0.0,403822,0.0,0.0,0
+274,H5,2019,2019,2019,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,421779710.0,0.0,0.0,0.0,421779710.0,0.0,229838905,0.0,0.0,0
+273,H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,10.0,0.0,0.0,0.0,10.0,0.0,98,0.0,0.0,0
+272,H5,2019,2019,2019,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,1395424970.0,0.0,0.0,0.0,1395424970.0,0.0,688510175,0.0,0.0,0
+271,H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,87550221.0,0.0,0.0,0.0,87550221.0,0.0,42738850,0.0,0.0,0
+370,H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,97.0,0.0,0.0,0.0,97.0,0.0,39247,0.0,0.0,0
+371,H5,2019,2019,2019,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,1140.0,0.0,0.0,0.0,1140.0,0.0,50132170,0.0,0.0,0
+309,H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,185030.0,0.0,0.0,0.0,185030.0,0.0,156042,0.0,0.0,0
+310,H5,2019,2019,2019,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,4334400.0,0.0,0.0,0.0,4334400.0,0.0,6019353,0.0,0.0,0
+368,H5,2019,2019,2019,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,56958.0,0.0,0.0,0.0,56958.0,0.0,2536696747,0.0,0.0,0
+312,H5,2019,2019,2019,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,619121.0,0.0,0.0,0.0,619121.0,0.0,1412292,0.0,0.0,0
+343,H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,167760.0,0.0,0.0,0.0,167760.0,0.0,53224,0.0,0.0,0
+344,H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,1.0,0.0,0.0,0.0,1.0,0.0,59,0.0,0.0,0
+345,H5,2019,2019,2019,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,15277108.0,0.0,0.0,0.0,15277108.0,0.0,4061989,0.0,0.0,0
+346,H5,2019,2019,2019,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,6892800.0,0.0,0.0,0.0,6892800.0,0.0,2686778,0.0,0.0,0
+347,H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,89.0,0.0,0.0,0.0,89.0,0.0,1370,0.0,0.0,0
+348,H5,2019,2019,2019,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,1214338.0,0.0,0.0,0.0,1214338.0,0.0,440676,0.0,0.0,0
+311,H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,9357.0,0.0,0.0,0.0,9357.0,0.0,12993,0.0,0.0,0
+394,H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,2642.0,0.0,0.0,0.0,4532092.0,0.0,52858986,0.0,0.0,2
+395,H5,2019,2019,2019,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,1550.0,0.0,0.0,0.0,2923751.0,0.0,23093322,0.0,0.0,2
+316,H5,2019,2019,2019,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,82.0,0.0,0.0,0.0,82.0,0.0,661,0.0,0.0,0
+315,H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,12414472.0,0.0,0.0,0.0,12414472.0,0.0,13688308,0.0,0.0,0
+314,H5,2019,2019,2019,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,6148826.0,0.0,0.0,0.0,6148826.0,0.0,9780408,0.0,0.0,0
+313,H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,12255439.0,0.0,0.0,0.0,12255439.0,0.0,16038023,0.0,0.0,0
+322,H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,10958197.0,0.0,0.0,0.0,10958197.0,0.0,14186289,0.0,0.0,0
+317,H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,9688295.0,0.0,0.0,0.0,9688295.0,0.0,11033177,0.0,0.0,0
+356,H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,3000.0,0.0,0.0,0.0,3000.0,0.0,3660,0.0,0.0,0
+357,H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,50.0,0.0,0.0,0.0,50.0,0.0,225,0.0,0.0,0
+372,H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,2.0,0.0,0.0,0.0,2.0,0.0,1608,0.0,0.0,0
+373,H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,7020.0,0.0,0.0,0.0,7020.0,0.0,392212350,0.0,0.0,6
+374,H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,50435.0,0.0,0.0,0.0,50435.0,0.0,2764893686,0.0,0.0,0
+375,H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,6.0,0.0,0.0,0.0,6.0,0.0,151575,0.0,0.0,0
+376,H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,62.0,0.0,0.0,0.0,62.0,0.0,55534,0.0,0.0,6
+377,H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7108,Gold,8,Weight in kilograms,440.0,0.0,0.0,0.0,440.0,0.0,24062655,0.0,0.0,0
+404,H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,44972.0,0.0,0.0,0.0,84861836.0,0.0,781132814,0.0,0.0,2
+405,H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,127.0,0.0,0.0,0.0,196277.0,0.0,3247240,0.0,0.0,2
+406,H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,179.0,0.0,0.0,0.0,311605.0,0.0,5107076,0.0,0.0,2
+407,H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,0.0,0.0,0.0,0.0,2.0,0.0,87,0.0,0.0,2
+408,H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,20211.0,0.0,0.0,0.0,41488575.0,0.0,354870451,0.0,0.0,2
+409,H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,7265.0,0.0,0.0,0.0,10717253.0,0.0,137748992,0.0,0.0,2
+410,H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,12705.0,0.0,0.0,0.0,25687418.0,0.0,235250960,0.0,0.0,2
+349,H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,1.0,0.0,0.0,0.0,1.0,0.0,3,0.0,0.0,0
+350,H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,30273108.0,0.0,0.0,0.0,30273108.0,0.0,6922885,0.0,0.0,0
+351,H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,263700.0,0.0,0.0,0.0,263700.0,0.0,72157,0.0,0.0,0
+352,H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,20.0,0.0,0.0,0.0,20.0,0.0,171,0.0,0.0,0
+323,H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,13651033.0,0.0,0.0,0.0,13651033.0,0.0,19288992,0.0,0.0,0
+324,H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,11488530.0,0.0,0.0,0.0,11488530.0,0.0,13747405,0.0,0.0,0
+325,H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,41.0,0.0,0.0,0.0,41.0,0.0,400,0.0,0.0,0
+320,H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,1161.0,0.0,0.0,0.0,1161.0,0.0,7175,0.0,0.0,0
+319,H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,3971520.0,0.0,0.0,0.0,3971520.0,0.0,5280183,0.0,0.0,0
+355,H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,8167409.0,0.0,0.0,0.0,8167409.0,0.0,3212184,0.0,0.0,0
+354,H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,8284844.0,0.0,0.0,0.0,8284844.0,0.0,1841394,0.0,0.0,0
+353,H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4402,Charcoal,8,Weight in kilograms,8.0,0.0,0.0,0.0,8.0,0.0,74,0.0,0.0,0
+402,H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,1398.0,0.0,0.0,0.0,2183175.0,0.0,30962372,0.0,0.0,2
+321,H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,319074.0,0.0,0.0,0.0,319074.0,0.0,811858,0.0,0.0,0
+403,H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8703,Motor Cars,5,Number of items,1037.0,0.0,0.0,0.0,2021086.0,0.0,16432118,0.0,0.0,2
+287,H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,84.0,0.0,0.0,0.0,84.0,0.0,949,0.0,0.0,0
+286,H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,599286400.0,0.0,0.0,0.0,599286400.0,0.0,403174823,0.0,0.0,0
+285,H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,704,Viet Nam,VNM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,2.0,0.0,0.0,0.0,2.0,0.0,55,0.0,0.0,0
+284,H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,359101531.0,0.0,0.0,0.0,359101531.0,0.0,234377335,0.0,0.0,6
+283,H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,137301.0,0.0,0.0,0.0,137301.0,0.0,155581,0.0,0.0,0
+318,H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4001,Rubber,8,Weight in kilograms,20192760.0,0.0,0.0,0.0,20192760.0,0.0,23966326,0.0,0.0,0
+281,H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,2.0,0.0,0.0,0.0,2.0,0.0,9,0.0,0.0,0
+280,H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,1082719970.0,0.0,0.0,0.0,1082719970.0,0.0,784277208,0.0,0.0,0
+279,H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,509334.0,0.0,0.0,0.0,509334.0,0.0,538196,0.0,0.0,0
+288,H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,274500.0,0.0,0.0,0.0,274500.0,0.0,231395,0.0,0.0,0
+282,H5,2020,2020,2020,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1511,Palm Oil,8,Weight in kilograms,432702500.0,0.0,0.0,0.0,432702500.0,0.0,296926427,0.0,0.0,0
