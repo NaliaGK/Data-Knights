@@ -11,11 +11,11 @@ Repo for competition by Data Junkies
 3. ....
 
 **Komoditas :**
-1. Batu bara
-2. Minyak sawit
-3. Mobil
-4. Emas
-5. Karet
+1. Batu bara [4402]
+2. Minyak sawit [1511]
+3. Mobil [8703]
+4. Emas [7108]
+5. Karet [4001]
 
 **Partner :**
 1. Singapura
