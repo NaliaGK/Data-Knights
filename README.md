@@ -27,6 +27,6 @@ Repo for competition by Data Junkies
 
 Infografis :
 1. Memplot komoditas unggulan (ekspor dan import) tiap negara dan beri nilainya. (dalam bentuk peta) 5 negara tetapi plot petanya semua negara.
-|   Bikin line plot total ekspor dari 1991-2020 1 garis
-|   Bikin line plot total impor dari 1991-2020 1 garis
+2. Bikin line plot total ekspor dan impor dari 1991-2020 segaris
+
 
