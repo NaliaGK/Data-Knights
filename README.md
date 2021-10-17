@@ -24,5 +24,7 @@ Repo for competition by Data Junkies
 4. Thailand
 5. Vietnam
 
-
+Infografis :
+1. Memplot komoditas unggulan (ekspor dan import) tiap negara dan beri nilainya. (dalam bentuk peta) 5 negara tetapi plot petanya semua negara.
+2. 
 
